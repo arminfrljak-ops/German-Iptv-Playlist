@@ -1,0 +1,1284 @@
+#EXTINF:0 tvg-id=\"Киносемья HD\" tvg-logo=\"http://troya.one/images/chIcons/8.png\" tvg-rec=\"6\", Киносемья HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch008/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwOyXdTvOkDENir58su5xZAyQrZ6Sc4wdTfHhgANnY53
+#EXTINF:0 tvg-id=\"Кинохит HD\" tvg-logo=\"http://troya.one/images/chIcons/9.png\" tvg-rec=\"6\", Кинохит HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch009/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B67JlT9CDXln9aWRumWI79Cr37wJhD5tBom_opXbGvp7
+#EXTINF:0 tvg-id=\"Киносвидание HD\" tvg-logo=\"http://troya.one/images/chIcons/10.png\" tvg-rec=\"6\", Киносвидание HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch010/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3RYiu-V2R5Qan-9XI4jdnVMCssVoFpRvvRaN3YhF6V1
+#EXTINF:0 tvg-id=\"Наше новое кино\" tvg-logo=\"http://troya.one/images/chIcons/15.png\" tvg-rec=\"6\", Наше новое кино
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch015/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2jlNENPDjziTEIvQdnMWoM4U0j9Ut4dm_vZHrSKx38L
+#EXTINF:0 tvg-id=\"Киномикс HD\" tvg-logo=\"http://troya.one/images/chIcons/79.png\" tvg-rec=\"6\", Киномикс HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch079/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B5KgjLG_hbgsJ2SnpaLe4tE2HnMXHc-RuUcfKKyrY7AW
+#EXTINF:0 tvg-id=\"Кинопремьера HD\" tvg-logo=\"http://troya.one/images/chIcons/54.png\" tvg-rec=\"6\", Кинопремьера HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch054/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B70w9E_szudgooSSSmvFHEqOlKv-oYjjyQ1w7_jZk4ij
+#EXTINF:0 tvg-id=\"Мужское кино HD\" tvg-logo=\"http://troya.one/images/chIcons/112.png\" tvg-rec=\"6\", Мужское кино HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch112/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7aOnKvMHJas9IK5U6sN1ZuuHhCVBEKDVNnpoyxvBgsK
+#EXTINF:0 tvg-id=\"Родное кино\" tvg-logo=\"http://troya.one/images/chIcons/116.png\" tvg-rec=\"6\", Родное кино
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch116/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1-KG_AEBApWgQoiYfU4dkC_hVTAeiNByOPhflufMXIh
+#EXTINF:0 tvg-id=\"Индийское кино\" tvg-logo=\"http://troya.one/images/chIcons/461.png\" tvg-rec=\"6\", Индийское кино
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch461/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B9uYqc8yJe_o8N_T5s2Tdn4Ej0lp1hzTfpKl92ZpPs0M
+#EXTINF:0 tvg-id=\"Киносерия HD\" tvg-logo=\"http://troya.one/images/chIcons/668.png\" tvg-rec=\"6\", Киносерия HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch668/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3ByejU010Pl_XyehsYwYVjhOCjRDrlSJk1r2VpofPsY4H
+#EXTINF:0 tvg-id=\"Киноужас HD\" tvg-logo=\"http://troya.one/images/chIcons/652.png\" tvg-rec=\"6\", Киноужас HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch652/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B53CK2lNZcoUZFh9nzxHAZiK1mhJP_Tw2EMQALqWBzTh
+#EXTINF:0 tvg-id=\"Кинокомедия HD\" tvg-logo=\"http://troya.one/images/chIcons/460.png\" tvg-rec=\"6\", Кинокомедия HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch460/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bx-YWxrEFhi8Lu9nSF_f0IZYds3tgDKjPm46VW3Nft_E
+#EXTINF:0 tvg-id=\"Start World HD\" tvg-logo=\"http://troya.one/images/chIcons/495.png\" tvg-rec=\"6\", Start World HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch495/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1c0WnyP17_Odf9K8PvD7QUkkBhdo5czNQEK1caH10Gj
+#EXTINF:0 tvg-id=\"Start Air HD\" tvg-logo=\"http://troya.one/images/chIcons/506.png\" tvg-rec=\"6\", Start Air HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch506/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bwp-6lgKdDJHo0FAUw2qPW6GVK7zZCz0tUUFE7CwyWLX
+#EXTINF:0 tvg-id=\"Viasat Kino World HD\" tvg-logo=\"http://troya.one/images/chIcons/651.png\" tvg-rec=\"6\", Viasat Kino World HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch651/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bz4N4F-stpak-S0dUCBEN1gx0z94CQqEgmEjRaEiArA2
+#EXTINF:0 tvg-id=\"Viasat Kino Action HD\" tvg-logo=\"http://troya.one/images/chIcons/3079.png\" tvg-rec=\"6\", Viasat Kino Action HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch3079/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bw24mtu0w9E-9VMi5ZYen_8gkemsA6X7aYh5WahtaN2N
+#EXTINF:0 tvg-id=\"Viasat Kino Comedy HD\" tvg-logo=\"http://troya.one/images/chIcons/3080.png\" tvg-rec=\"6\", Viasat Kino Comedy HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch3080/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BxX3p-sr_yKNscwfXyV9OtxtRk92qVXLXk2rea6VFvFU
+#EXTINF:0 tvg-id=\"Viasat Kino Megahit HD\" tvg-logo=\"http://troya.one/images/chIcons/3082.png\" tvg-rec=\"0\", Viasat Kino Megahit HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch3082/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-DB49f0USy9UpVf1ztBlnuFsN_JMyaD08rzf5aeRYcA
+#EXTINF:0 tvg-id=\"Viasat Kino HD\" tvg-logo=\"http://troya.one/images/chIcons/3081.png\" tvg-rec=\"6\", Viasat Kino HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch3081/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6CezfyMl-w9Qy9zEe6IcPi4qWO8b5dvdp20BL8Qom0s
+#EXTINF:0 tvg-id=\"Viju TV 1000 HD\" tvg-logo=\"http://troya.one/images/chIcons/17.png\" tvg-rec=\"6\", Viju TV 1000 HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch017/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bwf2lAelxOu5oGDZy1Z4ojZPDirM_c-CN0Meu0LKWTrB
+#EXTINF:0 tvg-id=\"Viju TV 1000 Action HD\" tvg-logo=\"http://troya.one/images/chIcons/18.png\" tvg-rec=\"6\", Viju TV 1000 Action HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch018/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BxYpEBrVHmcj290k9CC1EMYbS5v7fmqaCO_r6quN1Ovo
+#EXTINF:0 tvg-id=\"Viju TV 1000 Русское HD\" tvg-logo=\"http://troya.one/images/chIcons/13.png\" tvg-rec=\"6\", Viju TV 1000 Русское HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch013/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwqwgtSVqbCVvyhv-NzYDdZ4WFlWN5unT4xIkremGCi-
+#EXTINF:0 tvg-id=\"Viju TV1000 Romantica HD\" tvg-logo=\"http://troya.one/images/chIcons/3074.png\" tvg-rec=\"6\", Viju TV1000 Romantica HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch3074/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1ToLZWtDlGVsonz-D9BLA41nhCm1_89mAbiknS_2cBD
+#EXTINF:0 tvg-id=\"Viju TV1000 Новелла HD\" tvg-logo=\"http://troya.one/images/chIcons/3075.png\" tvg-rec=\"0\", Viju TV1000 Новелла HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch3075/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B96CnB7gXUcLgLYh2KPOxIjqY65gFt6Zw6LBdNd_OWYF
+#EXTINF:0 tvg-id=\"Viju+ Comedy HD\" tvg-logo=\"http://troya.one/images/chIcons/58.png\" tvg-rec=\"6\", Viju+ Comedy HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch058/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1Y_DCJ2yUyPWz1jckfMOKoHie4jSIiuvy_4T1HoCEMa
+#EXTINF:0 tvg-id=\"Viju+ Premiere HD\" tvg-logo=\"http://troya.one/images/chIcons/60.png\" tvg-rec=\"6\", Viju+ Premiere HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch060/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwRZxqKsUqt1nxqRICXiz8FiQ-f6x-l59F0Z2EgnlXmx
+#EXTINF:0 tvg-id=\"Viju+ Megahit HD\" tvg-logo=\"http://troya.one/images/chIcons/59.png\" tvg-rec=\"6\", Viju+ Megahit HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch059/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Byv1kJVekqjY5e72oSX6et78AscR61oMWzYm_yT_C3aS
+#EXTINF:0 tvg-id=\"Viju+ Serial HD\" tvg-logo=\"http://troya.one/images/chIcons/701.png\" tvg-rec=\"6\", Viju+ Serial HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch701/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B04X8tL3gQNV2NW6a5xyWesulEo4q3EOOEkMkUciYety
+#EXTINF:0 tvg-id=\"Amedia Hit HD\" tvg-logo=\"http://troya.one/images/chIcons/32.png\" tvg-rec=\"6\", Amedia Hit HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch032/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8YMPOp3szW0ht2Wm-Ro8NTISjmwM6bPocLSYO30nowu
+#EXTINF:0 tvg-id=\"Amedia 1 HD\" tvg-logo=\"http://troya.one/images/chIcons/421.png\" tvg-rec=\"6\", Amedia 1 HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch421/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4r3UVh4mHcqxzS30WIbdD3N8lL-dlmeDkzw4zaxvWrc
+#EXTINF:0 tvg-id=\"Amedia 2 HD\" tvg-logo=\"http://troya.one/images/chIcons/515.png\" tvg-rec=\"6\", Amedia 2 HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch515/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B_FvSrtomHfVufz_nbcRQ-KAc78gE4CR5QD92z6grxTQ
+#EXTINF:0 tvg-id=\"Amedia Premium HD\" tvg-logo=\"http://troya.one/images/chIcons/65.png\" tvg-rec=\"6\", Amedia Premium HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch065/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B9pJobJxSJZFrVQrErjaNUZdm06ovwvRDQ8KLvZ4ZfV9
+#EXTINF:0 tvg-id=\"НСТ\" tvg-logo=\"http://troya.one/images/chIcons/117.png\" tvg-rec=\"6\", НСТ
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch117/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3ykZCV8I_VbWbWgkVbXhcygg4_9rl6WFQ4J8nVUWGHM
+#EXTINF:0 tvg-id=\"Мосфильм HD\" tvg-logo=\"http://troya.one/images/chIcons/336.png\" tvg-rec=\"6\", Мосфильм HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch336/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7wHpWxEpgrzlEHmmHuH3i6flpvI7TfvvzttxhhqF7u6
+#EXTINF:0 tvg-id=\"Кино ТВ HD\" tvg-logo=\"http://troya.one/images/chIcons/77.png\" tvg-rec=\"6\", Кино ТВ HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch077/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B_U4fi1_qWqdWf_jGGdH0J80O8YZCjiBGWwR2X28HDLR
+#EXTINF:0 tvg-id=\"Остросюжетное HD\" tvg-logo=\"http://troya.one/images/chIcons/72.png\" tvg-rec=\"6\", Остросюжетное HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch072/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2Hq4pBs0cmjhq4ekw3VuD3SYTSMuvUWcmts-z5HcsYd
+#EXTINF:0 tvg-id=\"Дом Кино\" tvg-logo=\"http://troya.one/images/chIcons/78.png\" tvg-rec=\"6\", Дом Кино
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch078/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B61rL8dCHgKZYGVn4AnerAfDF8p6KI-0N99FUMfVm4L6
+#EXTINF:0 tvg-id=\"Дом Кино Премиум HD\" tvg-logo=\"http://troya.one/images/chIcons/80.png\" tvg-rec=\"6\", Дом Кино Премиум HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch080/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bz69cja0Lsv9LDdCP9AFdWNWKuRADYUkNMEAVx21YjaT
+#EXTINF:0 tvg-id=\"ЕвроКино\" tvg-logo=\"http://troya.one/images/chIcons/33.png\" tvg-rec=\"6\", ЕвроКино
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch033/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1lTbPOgL7mXFgB3k8jH8mqQ7YUfXDZ8-Mb3GrPD_NHk
+#EXTINF:0 tvg-id=\"ТВ3\" tvg-logo=\"http://troya.one/images/chIcons/24.png\" tvg-rec=\"6\", ТВ3
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch024/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BzQrT10hWOScQW8XGOSi5VryzPzNoEfL6rC-z7G2Kz94
+#EXTINF:0 tvg-id=\"ТВ 3 +2\" tvg-logo=\"http://troya.one/images/chIcons/409.png\" tvg-rec=\"0\", ТВ 3 +2
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch409/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8y1l6ZTzxSQ0Gw29NpuJZeaTPcwcX7zyV-otVwpxFJd
+#EXTINF:0 tvg-id=\"ТВ 3 +4\" tvg-logo=\"http://troya.one/images/chIcons/410.png\" tvg-rec=\"0\", ТВ 3 +4
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch410/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B65liGuArAwL-6Vxp0dLnMS9EckYwOiGGuZ8UzI8OG5N
+#EXTINF:0 tvg-id=\"ТВ 3 +6\" tvg-logo=\"http://troya.one/images/chIcons/411.png\" tvg-rec=\"0\", ТВ 3 +6
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch411/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bx5LsNnAiZHC6xxN30IlUOGwbQFLvHOrEhfNAOZDbUW6
+#EXTINF:0 tvg-id=\"Домашний\" tvg-logo=\"http://troya.one/images/chIcons/110.png\" tvg-rec=\"6\", Домашний
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch110/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4HRbId0OqIBugUJjovk8Bfqu9JdmuGjS_bfKPmqCxtr
+#EXTINF:0 tvg-id=\"Домашний +2\" tvg-logo=\"http://troya.one/images/chIcons/417.png\" tvg-rec=\"0\", Домашний +2
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch417/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7zEy79vD3LlxG5RWKw4E796vr4iEHTnd-SSUeM3VSg7
+#EXTINF:0 tvg-id=\"НTВ Cериал\" tvg-logo=\"http://troya.one/images/chIcons/620.png\" tvg-rec=\"6\", НTВ Cериал
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch620/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1j_F2oe0n7S4DaSPQJMkyu51LZnVPSojtx6apP8GWvR
+#EXTINF:0 tvg-id=\"НTВ Xит\" tvg-logo=\"http://troya.one/images/chIcons/568.png\" tvg-rec=\"6\", НTВ Xит
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch568/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B9-b4g6usdIA2q_0TiK75R6NycH_t9Ryg-YCKtUh0FN7
+#EXTINF:0 tvg-id=\"Fox HD\" tvg-logo=\"http://troya.one/images/chIcons/103.png\" tvg-rec=\"6\", Fox HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch103/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B9ADm6ZaBwdJRJsMei5IzSQp8I5WSOqMeddWnU2N5LFI
+#EXTINF:0 tvg-id=\"Fox life\" tvg-logo=\"http://troya.one/images/chIcons/104.png\" tvg-rec=\"6\", Fox life
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch104/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BxrJf1eUtVffLSgsS5rn6wxwUq0waRYUhe_IvrKJn1SB
+#EXTINF:0 tvg-id=\"Scream\" tvg-logo=\"http://troya.one/images/chIcons/470.png\" tvg-rec=\"6\", Scream
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch470/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B_na-RwCKt4yrwpYjz6QYXM_dh2qgcB0OxdrpL22xMk5
+#EXTINF:0 tvg-id=\"Comedy Central\" tvg-logo=\"http://troya.one/images/chIcons/38.png\" tvg-rec=\"6\", Comedy Central
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch038/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6UHJDU0HVe20hY31vJNYRRYlWNVQFUYAxhqm0VXSrpl
+#EXTINF:0 tvg-id=\"Премиальное HD\" tvg-logo=\"http://troya.one/images/chIcons/84.png\" tvg-rec=\"6\", Премиальное HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch084/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwrUpPPlqhMMoF3JEnJDPQL-XJLaBMXJaMC_eDn7gg1r
+#EXTINF:0 tvg-id=\"Романтичное HD\" tvg-logo=\"http://troya.one/images/chIcons/98.png\" tvg-rec=\"6\", Романтичное HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch098/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2zwu0HcruDy0HI_Hi92xvtp9xRsMg4JG0AwLm0AGSRQ
+#EXTINF:0 tvg-id=\"Иллюзион+\" tvg-logo=\"http://troya.one/images/chIcons/114.png\" tvg-rec=\"6\", Иллюзион+
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch114/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4JbBF3PrEiIKVxaoCzX5qaYqyq-I0kalRPOKKapFt_D
+#EXTINF:0 tvg-id=\"Русский бестселлер\" tvg-logo=\"http://troya.one/images/chIcons/115.png\" tvg-rec=\"6\", Русский бестселлер
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch115/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1ulCWgWikmw8ot-APCrrQ9NapKohix5zDM-J4nE77_S
+#EXTINF:0 tvg-id=\"Русский Иллюзион\" tvg-logo=\"http://troya.one/images/chIcons/101.png\" tvg-rec=\"6\", Русский Иллюзион
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch101/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0D2p8lrGPDCtXbSqlufiVLxcfItQWve2_hJjBtYHElS
+#EXTINF:0 tvg-id=\"Русский роман\" tvg-logo=\"http://troya.one/images/chIcons/132.png\" tvg-rec=\"6\", Русский роман
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch132/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BxIo-r80G1sBhltbP6ROFlrKcqvYFY96F85L7T0Bmt3K
+#EXTINF:0 tvg-id=\"Русский Детектив\" tvg-logo=\"http://troya.one/images/chIcons/462.png\" tvg-rec=\"6\", Русский Детектив
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch462/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B71A6aERR-D3uhafd8Hupr7yC7DwREuH8pIaD8iS3AEE
+#EXTINF:0 tvg-id=\"Комедия\" tvg-logo=\"http://troya.one/images/chIcons/105.png\" tvg-rec=\"6\", Комедия
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch105/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Byd5mvlDiUbRWtX4ANLeb5Fh_u6CDD2x-0vyGjM0a8mA
+#EXTINF:0 tvg-id=\"Любимое Кино\" tvg-logo=\"http://troya.one/images/chIcons/463.png\" tvg-rec=\"6\", Любимое Кино
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch463/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8Se2g_OuqbqrZO8mVGoulWEPZkvbp7pixoQvVPc5Ibd
+#EXTINF:0 tvg-id=\"Шокирующее HD\" tvg-logo=\"http://troya.one/images/chIcons/134.png\" tvg-rec=\"6\", Шокирующее HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch134/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B_xW9ep4PEMdpmLWIE50PZMNJ2nLl5ERGfrpzoQxgI5I
+#EXTINF:0 tvg-id=\"Комедийное HD\" tvg-logo=\"http://troya.one/images/chIcons/136.png\" tvg-rec=\"6\", Комедийное HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch136/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2sbIheRrR4b0mv45S_7KfZQ_wskUQfbHlOkT0viq9wZ
+#EXTINF:0 tvg-id=\"Криминальное HD\" tvg-logo=\"http://troya.one/images/chIcons/2127.png\" tvg-rec=\"6\", Криминальное HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch2127/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B9-72nOlZYxWe9QVA7rqiz5lWGdR_Gr4rB8L8rCLjEPy
+#EXTINF:0 tvg-id=\"Наше HD\" tvg-logo=\"http://troya.one/images/chIcons/131.png\" tvg-rec=\"6\", Наше HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch131/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3al9q3k1mBmFX-vTYuvaOPmnl-x78rNmD7B2X9sBWRu
+#EXTINF:0 tvg-id=\"Наше любимое HD\" tvg-logo=\"http://troya.one/images/chIcons/139.png\" tvg-rec=\"6\", Наше любимое HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch139/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0nibupxsWZSqP_GWvQ9DEWfubufhNgdREh1yK-MXumm
+#EXTINF:0 tvg-id=\"Душевное HD\" tvg-logo=\"http://troya.one/images/chIcons/140.png\" tvg-rec=\"6\", Душевное HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch140/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3ByLvHIYIGT3xoSZUlH_Z76AC3Un1wljRBFgcLymo_NTZ
+#EXTINF:0 tvg-id=\"Наш Кинопоказ HD\" tvg-logo=\"http://troya.one/images/chIcons/714.png\" tvg-rec=\"6\", Наш Кинопоказ HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch714/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B19Vdd4ywU4mszktnXKEEFNN0pUpeIvT3JVxJI0-6lSl
+#EXTINF:0 tvg-id=\"Наше Мужское HD\" tvg-logo=\"http://troya.one/images/chIcons/589.png\" tvg-rec=\"6\", Наше Мужское HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch589/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BxpbedQZxdeYELSaiYqmPHxPfEeggsa2dWeqK_uMcyHg
+#EXTINF:0 tvg-id=\"Bollywood HD\" tvg-logo=\"http://troya.one/images/chIcons/326.png\" tvg-rec=\"0\", Bollywood HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch326/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8WS2o8vUov-K3j_23yD_8PHKYb01tk2dyzRG-zsOF3b
+#EXTINF:0 tvg-id=\"Plan B HD\" tvg-logo=\"http://troya.one/images/chIcons/459.png\" tvg-rec=\"6\", Plan B HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch459/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BycI1JXmBT9cG6pmeyhzakeym_MTASeTT5UVfDxEfZId
+#EXTINF:0 tvg-id=\".Sci-Fi\" tvg-logo=\"http://troya.one/images/chIcons/464.png\" tvg-rec=\"6\", .Sci-Fi
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch464/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bw5EuAETkTSlPI4ElGXuWHpcVDJIBeiZZ-SRYNENSffg
+#EXTINF:0 tvg-id=\".Black\" tvg-logo=\"http://troya.one/images/chIcons/465.png\" tvg-rec=\"6\", .Black
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch465/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7hI54wH-V8_06Rbq234uVt0TUr296zW9bP5KrIuAYOu
+#EXTINF:0 tvg-id=\".Red HD\" tvg-logo=\"http://troya.one/images/chIcons/70.png\" tvg-rec=\"6\", .Red HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch070/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B5PBVzb9aeuzzdsD8u2hMM73dcaAsUs_xbl_vyqDJol4
+#EXTINF:0 tvg-id=\"Кинопоказ\" tvg-logo=\"http://troya.one/images/chIcons/466.png\" tvg-rec=\"6\", Кинопоказ
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch466/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BxQ_8zup5eA2uSdDOR2bQj-daJT7ObXFGzVMpKbt9SVu
+#EXTINF:0 tvg-id=\"Синема HD\" tvg-logo=\"http://troya.one/images/chIcons/467.png\" tvg-rec=\"6\", Синема HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch467/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0f4cleYgOkhBMFgehmXoGRbQFXen_Ya5KrH2cIeMqes
+#EXTINF:0 tvg-id=\"Страшное HD\" tvg-logo=\"http://troya.one/images/chIcons/468.png\" tvg-rec=\"6\", Страшное HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch468/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BzMLpnTmgVrBwrzlItDxNwVxUWrH0GE2gkYt9zZaQW7S
+#EXTINF:0 tvg-id=\"TV XXI Век\" tvg-logo=\"http://troya.one/images/chIcons/469.png\" tvg-rec=\"6\", TV XXI Век
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch469/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1y5xwtlUNfy1MiMIiGhhjmMfjUzEdQsqU_asY0iEhAO
+#EXTINF:0 tvg-id=\"Fan HD\" tvg-logo=\"http://troya.one/images/chIcons/501.png\" tvg-rec=\"6\", Fan HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch501/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7FShOya6GMu7zQ1NlPuIVFJiCXCXUp7pQ8p4EVA5Ds6
+#EXTINF:0 tvg-id=\"Феникс+ Кино\" tvg-logo=\"http://troya.one/images/chIcons/505.png\" tvg-rec=\"6\", Феникс+ Кино
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch505/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1fSEZ2gBk9hopZauWmfC7gdP0Q2VOH6JgeHlQQu446C
+#EXTINF:0 tvg-id=\"Ретро\" tvg-logo=\"http://troya.one/images/chIcons/508.png\" tvg-rec=\"6\", Ретро
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch508/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwdGoZsAskL5iMhXAJ47dghsHIkXWLHFwWigHGcxE6aL
+#EXTINF:0 tvg-id=\"Hollywood HD\" tvg-logo=\"http://troya.one/images/chIcons/525.png\" tvg-rec=\"6\", Hollywood HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch525/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B5Vd5Sili08aK-POiskuAn9iXVfie-jSmxpvN2lz2PM6
+#EXTINF:0 tvg-id=\"Hollywood\" tvg-logo=\"http://troya.one/images/chIcons/1675.png\" tvg-rec=\"3\", Hollywood
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch1675/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2Fk4jMsKPviRXvMm6dUv9L_2prFakCST5_ywYranuty
+#EXTINF:0 tvg-id=\"Дорама HD\" tvg-logo=\"http://troya.one/images/chIcons/535.png\" tvg-rec=\"6\", Дорама HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch535/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1CAuAJvJbK4ERvyxeo9JyWDy1eaD18cRi2MTgeiPals
+#EXTINF:0 tvg-id=\"Еврокино HD\" tvg-logo=\"http://troya.one/images/chIcons/537.png\" tvg-rec=\"6\", Еврокино HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch537/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3ByqVsIfObungppO_csZTmbE2GdIWu_YN-19mp9vWQyap
+#EXTINF:0 tvg-id=\"Тайна\" tvg-logo=\"http://troya.one/images/chIcons/543.png\" tvg-rec=\"6\", Тайна
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch543/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BzLvMU-g88Zz7EAziBVphpJsAOC1s-KEhlxF4YbRcyWg
+#EXTINF:0 tvg-id=\"Star Family HD\" tvg-logo=\"http://troya.one/images/chIcons/585.png\" tvg-rec=\"6\", Star Family HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch585/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2H_0t2WtShQPu85H4r29XXrfpVFb8QC6UU0UQqu2pap
+#EXTINF:0 tvg-id=\"Индия\" tvg-logo=\"http://troya.one/images/chIcons/560.png\" tvg-rec=\"6\", Индия
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch560/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7rq57T7uXhw-4f623WVHFmVW769uL8kXnSvUbslPofv
+#EXTINF:0 tvg-id=\"Болт\" tvg-logo=\"http://troya.one/images/chIcons/604.png\" tvg-rec=\"6\", Болт
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch604/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BxKkP78qUWlMiDXN60F_Vwg32Jx-E90ah2xTLSs0at1e
+#EXTINF:0 tvg-id=\"Мир сериала\" tvg-logo=\"http://troya.one/images/chIcons/636.png\" tvg-rec=\"6\", Мир сериала
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch636/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8WbodSmq5z8glyoMbphmmswWcwHbfi9x0VkAfjfANkq
+#EXTINF:0 tvg-id=\"AMC\" tvg-logo=\"http://troya.one/images/chIcons/623.png\" tvg-rec=\"6\", AMC
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch623/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1-UbMstNtb5C2HNTIM73LS5D92nv9kdy2f00LfEZz7w
+#EXTINF:0 tvg-id=\"Киноман\" tvg-logo=\"http://troya.one/images/chIcons/619.png\" tvg-rec=\"6\", Киноман
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch619/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1BGFPE7-MdocWrsXY2YDFsuP4ZIkqpMsRM2Dqqd7FBc
+#EXTINF:0 tvg-id=\"Epic Drama HD\" tvg-logo=\"http://troya.one/images/chIcons/681.png\" tvg-rec=\"6\", Epic Drama HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch681/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8MMyxfJ-_3dl38gOSpOVNmdQ8bORpQnju6HRiI4acU8
+#EXTINF:0 tvg-id=\"FilmBox ArtHouse\" tvg-logo=\"http://troya.one/images/chIcons/684.png\" tvg-rec=\"6\", FilmBox ArtHouse
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch684/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B66WgWv3Y-e7VTHWSMv-qG98wk9mqfA3jBbv8B5cmHKT
+#EXTINF:0 tvg-id=\"Блокбастер HD\" tvg-logo=\"http://troya.one/images/chIcons/689.png\" tvg-rec=\"6\", Блокбастер HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch689/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B73GBA6cs6FCNtSU4xdbQYE3ReiDgp_zUdXiwNLDtsFE
+#EXTINF:0 tvg-id=\"Про Любовь HD\" tvg-logo=\"http://troya.one/images/chIcons/690.png\" tvg-rec=\"6\", Про Любовь HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch690/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1YyNSBKFEDPDJPbNJc0c1ugZAduHqUyPncjilAXRjcP
+#EXTINF:0 tvg-id=\"Хит HD\" tvg-logo=\"http://troya.one/images/chIcons/691.png\" tvg-rec=\"6\", Хит HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch691/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8xyjkttNhWy9fJOiLgNrl_VZwRn6FImNe2b25CMkhvj
+#EXTINF:0 tvg-id=\"Камеди HD\" tvg-logo=\"http://troya.one/images/chIcons/692.png\" tvg-rec=\"6\", Камеди HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch692/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Byn8h7wgV2eUUzU4Fu7qHMyFII5dWIpurKldYtmcmEsQ
+#EXTINF:0 tvg-id=\"День Победы HD\" tvg-logo=\"http://troya.one/images/chIcons/703.png\" tvg-rec=\"6\", День Победы HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch703/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwZiIRUCaAaIsPojx-DnEONRyXQvH6NAj6E_kE0IGSOO
+#EXTINF:0 tvg-id=\"FlixSnip HD\" tvg-logo=\"http://troya.one/images/chIcons/709.png\" tvg-rec=\"6\", FlixSnip HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch709/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8_2u11wMsJ7vfN5wRGsQJvRZW03IvRS7nU5m6zl0TmS
+#EXTINF:0 tvg-id=\"Shot\" tvg-logo=\"http://troya.one/images/chIcons/712.png\" tvg-rec=\"6\", Shot
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch712/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7vqi30W17i0u5PpKTLde3X1HpqcI8otULV6EYSiBqbc
+#EXTINF:0 tvg-id=\"Trash HD\" tvg-logo=\"http://troya.one/images/chIcons/730.png\" tvg-rec=\"6\", Trash HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch730/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B9mcHFtMo6i0wPTFZ-PYp_e5rawQD40qcwrWrdGmuRjd
+#EXTINF:0 tvg-id=\"Kinoliving\" tvg-logo=\"http://troya.one/images/chIcons/2069.png\" tvg-rec=\"6\", Kinoliving
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch2069/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bzo4Hkx467QdEgmMmqN_AD4iiSpN3rvc4ZeX4SCC5iHi
+#EXTINF:0 tvg-id=\"Сапфир HD\" tvg-logo=\"http://troya.one/images/chIcons/2077.png\" tvg-rec=\"6\", Сапфир HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch2077/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3ByJLdHvNmM4a1UHAyCdZ9h-AxvZZR8xG8KYO1YcTl2zG
+#EXTINF:0 tvg-id=\"Кинеко HD\" tvg-logo=\"http://troya.one/images/chIcons/2079.png\" tvg-rec=\"6\", Кинеко HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch2079/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1trDPK9UFy_cUM0Y1-bil5QYqkP4AfPosMNEuqzq3D0
+#EXTINF:0 tvg-id=\"Dizi\" tvg-logo=\"http://troya.one/images/chIcons/1878.png\" tvg-rec=\"0\", Dizi
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch1878/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-46wSMygvGdd3f2MgBfvpaA67uL0ANHOMNnfWY1ccsm
+#EXTINF:0 tvg-id=\"KION Хит HD\" tvg-logo=\"http://troya.one/images/chIcons/382.png\" tvg-rec=\"6\", KION Хит HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch382/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6H_IBaaF3BSCEGMyTFqlP3_i-yvyilaA2qWE7taLa1d
+#EXTINF:0 tvg-id=\"VHS-ка HD\" tvg-logo=\"http://troya.one/images/chIcons/383.png\" tvg-rec=\"6\", VHS-ка HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch383/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B13618OOAvjWURwdMjmycAia1ogRC9CBaoiccXGowIHK
+#EXTINF:0 tvg-id=\"4ever Drama HD\" tvg-logo=\"http://troya.one/images/chIcons/384.png\" tvg-rec=\"6\", 4ever Drama HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch384/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B9AqeBvTrYmIsP6sycIdyqtw4PG0PUT-B5_EE8rT-zP6
+#EXTINF:0 tvg-id=\"4ever Theater HD\" tvg-logo=\"http://troya.one/images/chIcons/385.png\" tvg-rec=\"6\", 4ever Theater HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch385/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BzplQN3pgpqkg1IM4hE7ru9UujYbS2bZo92JXCkVzwDw
+#EXTINF:0 tvg-id=\"C More Hits HD\" tvg-logo=\"http://troya.one/images/chIcons/1116.png\" tvg-rec=\"0\", C More Hits HD
+#EXTGRP:3. Movies/Кино
+http://5.troya.info:34000/ch1116/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6xWJvD9kbbDX21vonCEJrHGdRZIuOsqisz3qhRK8zNw
+#EXTINF:0 tvg-id=\"BCU Action HD\" tvg-logo=\"http://troya.one/images/chIcons/769.png\" tvg-rec=\"3\", BCU Action HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch769/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B68BYcxrTIbZsHk1ybVqbqu0PkehhZP0CM--AaDN9_qg
+#EXTINF:0 tvg-id=\"BCU Catastrophe HD\" tvg-logo=\"http://troya.one/images/chIcons/770.png\" tvg-rec=\"3\", BCU Catastrophe HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch770/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1sjSP5Rk7YBdgzN6hFwkWjiECwXrjLyP6icX9USr7EP
+#EXTINF:0 tvg-id=\"BCU Cinema HD\" tvg-logo=\"http://troya.one/images/chIcons/771.png\" tvg-rec=\"3\", BCU Cinema HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch771/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B07eaLboYSCjWbkrhvYW5LDBOISxIp4o1_lTBdJI-U2w
+#EXTINF:0 tvg-id=\"BCU Cinema+ HD\" tvg-logo=\"http://troya.one/images/chIcons/834.png\" tvg-rec=\"3\", BCU Cinema+ HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch834/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6uNtLTS6Y3EREMjsuYU_8JtzR-7jwF5r0Ey1--t1RtE
+#EXTINF:0 tvg-id=\"BCU Comedy HD\" tvg-logo=\"http://troya.one/images/chIcons/1000.png\" tvg-rec=\"3\", BCU Comedy HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1000/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7aN9SHaTJHRT8-UVIacreq_uBRno6qG0VNP7mMDjSr_
+#EXTINF:0 tvg-id=\"BCU Fantastic HD\" tvg-logo=\"http://troya.one/images/chIcons/773.png\" tvg-rec=\"3\", BCU Fantastic HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch773/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8fM0uI_c4tnhLg_qZDGhtSQgq-BPdd4SDBq-uS981G4
+#EXTINF:0 tvg-id=\"BCU Filmystic HD\" tvg-logo=\"http://troya.one/images/chIcons/774.png\" tvg-rec=\"3\", BCU Filmystic HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch774/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8kt0F-mDSRygoNDjf0mGJpQAQTsOnSllqzobi63PrBa
+#EXTINF:0 tvg-id=\"BCU Kinorating HD\" tvg-logo=\"http://troya.one/images/chIcons/776.png\" tvg-rec=\"3\", BCU Kinorating HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch776/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8965f5_ObwYBX1tqxaiMTBkke3Rbvt-_9jMNFPLjWU-
+#EXTINF:0 tvg-id=\"BCU Marvel HD\" tvg-logo=\"http://troya.one/images/chIcons/311.png\" tvg-rec=\"3\", BCU Marvel HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch311/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B_NihJwAh7FKgo0ltQVRkTiEti4QAypJjcX_N-iOA75k
+#EXTINF:0 tvg-id=\"BCU Stars HD\" tvg-logo=\"http://troya.one/images/chIcons/835.png\" tvg-rec=\"3\", BCU Stars HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch835/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bxua1j2PTQf-NLV4ft9Q2wc46x7VPw1tNhIF3CbZUWZM
+#EXTINF:0 tvg-id=\"BCU Reality HD\" tvg-logo=\"http://troya.one/images/chIcons/785.png\" tvg-rec=\"3\", BCU Reality HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch785/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0-dgjXwXnCVLu4PAF4qyAAahvtTvnIo_t2pghwxqNgl
+#EXTINF:0 tvg-id=\"BCU Reality OLD HD\" tvg-logo=\"http://troya.one/images/chIcons/2743.png\" tvg-rec=\"3\", BCU Reality OLD HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2743/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3ByQw7nAHbU0xJtGNV__qQcLTTtzbQz1-yfc01dlw175y
+#EXTINF:0 tvg-id=\"BCU Premiere HD\" tvg-logo=\"http://troya.one/images/chIcons/778.png\" tvg-rec=\"3\", BCU Premiere HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch778/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2EzebxtkjzIzWTad7ERbGMyCBUXNQy3QGmDEudwF2Hv
+#EXTINF:0 tvg-id=\"BCU Premiere 1 HD\" tvg-logo=\"http://troya.one/images/chIcons/782.png\" tvg-rec=\"3\", BCU Premiere 1 HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch782/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B5b2lqf3BbgVFtoGMpdrSxnPpGeP0WKx3A3Ix-zVItE-
+#EXTINF:0 tvg-id=\"BCU Premiere 2 HD\" tvg-logo=\"http://troya.one/images/chIcons/783.png\" tvg-rec=\"3\", BCU Premiere 2 HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch783/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3k_1TvaqU5Q82NiDdtEUpiciEyixtlezCC_z7F3-QqG
+#EXTINF:0 tvg-id=\"BCU Premiere 3 HD\" tvg-logo=\"http://troya.one/images/chIcons/784.png\" tvg-rec=\"3\", BCU Premiere 3 HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch784/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-BO2W_1hlGZ80Ke1Nh9f0qxEK_ti5xyyuUZgo_rslz7
+#EXTINF:0 tvg-id=\"BCU Romantic HD\" tvg-logo=\"http://troya.one/images/chIcons/779.png\" tvg-rec=\"3\", BCU Romantic HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch779/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6b_HTVE7WbItRGk7mwzjh1zttOexYpEJ9Z2xiuj6KGR
+#EXTINF:0 tvg-id=\"BCU Romantic OLD\" tvg-logo=\"http://troya.one/images/chIcons/1545.png\" tvg-rec=\"3\", BCU Romantic OLD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1545/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwCEUXhDiywklWJXVcaudRiUb1yxORJ8LcnQWdU5-sR6
+#EXTINF:0 tvg-id=\"BCU History HD\" tvg-logo=\"http://troya.one/images/chIcons/775.png\" tvg-rec=\"3\", BCU History HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch775/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B_NN_Jbl7tHSC9zwwYucWch5EBk2a8xUXh70qQqI_xpV
+#EXTINF:0 tvg-id=\"BCU Russian HD\" tvg-logo=\"http://troya.one/images/chIcons/780.png\" tvg-rec=\"3\", BCU Russian HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch780/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2N5RBSoShj6Q49Eg373C3eeKkyFcSa-GtWRxAGbXDbF
+#EXTINF:0 tvg-id=\"BCU Russia 90s HD\" tvg-logo=\"http://troya.one/images/chIcons/2744.png\" tvg-rec=\"3\", BCU Russia 90s HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2744/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BznEogEwgiHJxqLAw-Vs6DlWRI7XEPhyLcgV5Id26Xsw
+#EXTINF:0 tvg-id=\"BCU VHS HD\" tvg-logo=\"http://troya.one/images/chIcons/781.png\" tvg-rec=\"3\", BCU VHS HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch781/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BxC20dvT4KWhaY0dJw0kForExJtjlENLlDAiugGO9U8f
+#EXTINF:0 tvg-id=\"BCU RUSerial HD\" tvg-logo=\"http://troya.one/images/chIcons/788.png\" tvg-rec=\"3\", BCU RUSerial HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch788/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B9p_Mv64zK_EeC5aO2xz1ZEdD_kBt1HFZFClpfMXCsCs
+#EXTINF:0 tvg-id=\"BCU СССР HD\" tvg-logo=\"http://troya.one/images/chIcons/789.png\" tvg-rec=\"3\", BCU СССР HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch789/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B_9fJK3enJwwNz3MXy15dSUg16_Pg80gUifQcq67UkgQ
+#EXTINF:0 tvg-id=\"BCU Media HD\" tvg-logo=\"http://troya.one/images/chIcons/790.png\" tvg-rec=\"3\", BCU Media HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch790/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-3TtIs-yEvjlFNGngoVCVE_c8Es3TxgQf8DGAWGmK4X
+#EXTINF:0 tvg-id=\"BCU Media OLD\" tvg-logo=\"http://troya.one/images/chIcons/590.png\" tvg-rec=\"3\", BCU Media OLD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch590/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2pnnmzGOw6K4N6C_1nV8WDhdNNIXwuN9bSBZFXGpM7W
+#EXTINF:0 tvg-id=\"BCU Cosmo HD\" tvg-logo=\"http://troya.one/images/chIcons/1026.png\" tvg-rec=\"3\", BCU Cosmo HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1026/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-xfj-TNd1VbFNqJoNbk2y8dbpxZ5AAyaemJqWHMN_qd
+#EXTINF:0 tvg-id=\"BCU TruMotion HD\" tvg-logo=\"http://troya.one/images/chIcons/1429.png\" tvg-rec=\"3\", BCU TruMotion HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1429/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8IxRgd5efwfnBAkUI6cpawfjUUnJkWFRwtqEfkXpOuM
+#EXTINF:0 tvg-id=\"BCU Сваты HD\" tvg-logo=\"http://troya.one/images/chIcons/145.png\" tvg-rec=\"3\", BCU Сваты HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch145/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B9hRgANk_9hswBDcl5IcJsJQ25IAZP0T6OpV-_78qZja
+#EXTINF:0 tvg-id=\"BCU Criminal HD\" tvg-logo=\"http://troya.one/images/chIcons/827.png\" tvg-rec=\"3\", BCU Criminal HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch827/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-rJg9702C2ISZVwI8QBbd39NxYw_kI7ttbXNwlNXPBi
+#EXTINF:0 tvg-id=\"BCU Survival HD\" tvg-logo=\"http://troya.one/images/chIcons/1444.png\" tvg-rec=\"3\", BCU Survival HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1444/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B83aZxuM_VJPquuxsaMXKqvGhLHsHq2l-3_P37YMGoPX
+#EXTINF:0 tvg-id=\"BCU Survival OLD\" tvg-logo=\"http://troya.one/images/chIcons/1445.png\" tvg-rec=\"3\", BCU Survival OLD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1445/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3WHb-onoGy4vsz3nhFHvS3T_NbVyCGuE-1qHS86SbDR
+#EXTINF:0 tvg-id=\"Киноджем 1 HD\" tvg-logo=\"http://troya.one/images/chIcons/542.png\" tvg-rec=\"6\", Киноджем 1 HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch542/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B62WKFQruibWgjfq9czcJ6UZMEjyHX4XbdbfbBN7pvtu
+#EXTINF:0 tvg-id=\"Киноджем 2 HD\" tvg-logo=\"http://troya.one/images/chIcons/521.png\" tvg-rec=\"6\", Киноджем 2 HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch521/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B97V-9zJcVNJLcF9-75zHcbAD2iV0tIfuQSXLIf7Lis0
+#EXTINF:0 tvg-id=\"CineMan\" tvg-logo=\"http://troya.one/images/chIcons/1030.png\" tvg-rec=\"6\", CineMan
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1030/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1-fFZ7Vxd5l2MTSNPzu8-5JIqiUJBsBUbD82waubYfh
+#EXTINF:0 tvg-id=\"CineMan Premium\" tvg-logo=\"http://troya.one/images/chIcons/2142.png\" tvg-rec=\"6\", CineMan Premium
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2142/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3VthVmr5KD3w4hdMxMnyw6WC1P49Ro5m-sKfCoNau5y
+#EXTINF:0 tvg-id=\"CineMan Top\" tvg-logo=\"http://troya.one/images/chIcons/1031.png\" tvg-rec=\"6\", CineMan Top
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1031/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0WDSLOxsw8eUc7oMeg6R7i2MpsjwZem2WjT4x5LBS-2
+#EXTINF:0 tvg-id=\"CineMan Action\" tvg-logo=\"http://troya.one/images/chIcons/1032.png\" tvg-rec=\"6\", CineMan Action
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1032/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1SmxDwbm99BBI9He2bCK57EyD8-pp_EZcU6v-Ml2wfO
+#EXTINF:0 tvg-id=\"CineMan Thriller\" tvg-logo=\"http://troya.one/images/chIcons/1033.png\" tvg-rec=\"6\", CineMan Thriller
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1033/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B33qoCA_9wqAeOQzEXB5IALE7DIougi7x8vzLKAqek53
+#EXTINF:0 tvg-id=\"CineMan Катастрофы\" tvg-logo=\"http://troya.one/images/chIcons/1074.png\" tvg-rec=\"6\", CineMan Катастрофы
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1074/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BxYAS0GLARYRP4ZGykcyb1w2jkZ3o88puSB79LLsjCwg
+#EXTINF:0 tvg-id=\"CineMan Melodrama\" tvg-logo=\"http://troya.one/images/chIcons/1034.png\" tvg-rec=\"6\", CineMan Melodrama
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1034/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwLqeDb9Gx2VcXFN7keP9aLGNh_TNFYHdZfjfnkPlxNT
+#EXTINF:0 tvg-id=\"CineMan Marvel\" tvg-logo=\"http://troya.one/images/chIcons/1035.png\" tvg-rec=\"6\", CineMan Marvel
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1035/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B75PVQNFngpJm7-m8r-OnGZs8epKns4u6FDo-GoCGQDs
+#EXTINF:0 tvg-id=\"CineMan Ужасы\" tvg-logo=\"http://troya.one/images/chIcons/1036.png\" tvg-rec=\"6\", CineMan Ужасы
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1036/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2SCIOYXrbgU65lMmXTTPRorQJm70xmolF8_WtyB58re
+#EXTINF:0 tvg-id=\"CineMan Комедия\" tvg-logo=\"http://troya.one/images/chIcons/1037.png\" tvg-rec=\"6\", CineMan Комедия
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1037/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7I913cn750pSo5CnCkoQDQuKeWAFpQ769rhUPAArJAD
+#EXTINF:0 tvg-id=\"CineMan VHS\" tvg-logo=\"http://troya.one/images/chIcons/1038.png\" tvg-rec=\"6\", CineMan VHS
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1038/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3ByW53-gcIg7bORFf9DNgFK74VKZD3DxXXYkHTYQHWR9k
+#EXTINF:0 tvg-id=\"CineMan РуКино\" tvg-logo=\"http://troya.one/images/chIcons/1039.png\" tvg-rec=\"6\", CineMan РуКино
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1039/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B54OgqYiU5Ct0uG7o_OBhhkfujM3zDxOlJQ5euedYG5I
+#EXTINF:0 tvg-id=\"CineMan Сваты\" tvg-logo=\"http://troya.one/images/chIcons/1040.png\" tvg-rec=\"6\", CineMan Сваты
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1040/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BysbsWYYFtVenzmm6Rew8m9_fs71JHZeC0Clz5gLbBNW
+#EXTINF:0 tvg-id=\"CineMan Ментовские войны\" tvg-logo=\"http://troya.one/images/chIcons/1325.png\" tvg-rec=\"6\", CineMan Ментовские войны
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1325/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3pe8rpckweVE-dc3pqr1sHJd2ORps0bq81MhmSOFhRM
+#EXTINF:0 tvg-id=\"CineMan ПёС\" tvg-logo=\"http://troya.one/images/chIcons/1326.png\" tvg-rec=\"6\", CineMan ПёС
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1326/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7BGJn_8tpNfbLR736TszJe4i_W8Sa8-HiHUWIZ_EzrZ
+#EXTINF:0 tvg-id=\"CineMan Лесник\" tvg-logo=\"http://troya.one/images/chIcons/1327.png\" tvg-rec=\"6\", CineMan Лесник
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1327/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B5FObllZlvki-dsEgvwuRtUNzqCkZbr4pv_vYLau1NnJ
+#EXTINF:0 tvg-id=\"CineMan Скорая помощь\" tvg-logo=\"http://troya.one/images/chIcons/1622.png\" tvg-rec=\"6\", CineMan Скорая помощь
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1622/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B9LCsUNdoLI0xvTGOH8CErqR0mB89BW7a1Oz_f98Uqao
+#EXTINF:0 tvg-id=\"CineMan Miniseries\" tvg-logo=\"http://troya.one/images/chIcons/2067.png\" tvg-rec=\"6\", CineMan Miniseries
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2067/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B396u_-8wtV_sbSEJstxSLbYg1ZGj4GV7QhTLQg-hq2_
+#EXTINF:0 tvg-id=\"CineMan Криминальные Сериалы\" tvg-logo=\"http://troya.one/images/chIcons/2748.png\" tvg-rec=\"6\", CineMan Криминальные Сериалы
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2748/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BxCe8Dk3UmbU6_L-Z3DzVHOgF7NctcIMXDTNGoedfb-L
+#EXTINF:0 tvg-id=\"CineMan Комедийные сериалы\" tvg-logo=\"http://troya.one/images/chIcons/2925.png\" tvg-rec=\"6\", CineMan Комедийные сериалы
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2925/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BzFgBA7ILidWm9MbwN3KLkko1U_F7Gm26JGyPHBZA1ks
+#EXTINF:0 tvg-id=\"MM NewFilm RU HD\" tvg-logo=\"http://troya.one/images/chIcons/1219.png\" tvg-rec=\"3\", MM NewFilm RU HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1219/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bwi9epH2J3tiB50PFFG4Q9GAAEV76G0crlCUs-MwudDJ
+#EXTINF:0 tvg-id=\"MM NewFilm 1 HD\" tvg-logo=\"http://troya.one/images/chIcons/1216.png\" tvg-rec=\"3\", MM NewFilm 1 HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1216/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BzqJhWtx3gUB3u4bOPAfXrfLwI9Q3mfifn4XpBZ9zcwE
+#EXTINF:0 tvg-id=\"MM NewFilm 2 HD\" tvg-logo=\"http://troya.one/images/chIcons/1217.png\" tvg-rec=\"3\", MM NewFilm 2 HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1217/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B5_KmB5px2WuPhF1SoM_OcvywUvbPGsSRaCka6xKi2p_
+#EXTINF:0 tvg-id=\"MM NewFilm 3 HD\" tvg-logo=\"http://troya.one/images/chIcons/1218.png\" tvg-rec=\"3\", MM NewFilm 3 HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1218/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7Ty7XwohnJGfZ05PsAjTKxNqq-7rF6LxtIZbklV92lw
+#EXTINF:0 tvg-id=\"MM Love HD\" tvg-logo=\"http://troya.one/images/chIcons/1215.png\" tvg-rec=\"3\", MM Love HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1215/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B60zGrN75hKba3Z1YefzYqfEgqROCndZ9KGfTdA-_dcx
+#EXTINF:0 tvg-id=\"MM UFO HD\" tvg-logo=\"http://troya.one/images/chIcons/1222.png\" tvg-rec=\"3\", MM UFO HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1222/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B13NBnSUx5LSwZ1UZwcsAiOpsgT0xopkxgFNklABV71F
+#EXTINF:0 tvg-id=\"MM 007 HD\" tvg-logo=\"http://troya.one/images/chIcons/1214.png\" tvg-rec=\"3\", MM 007 HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1214/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B15tyV3ZgW7iGPLKG6Juxgc1_6vIlJUDceZxWgZq8nq0
+#EXTINF:0 tvg-id=\"MM Агата Кристи HD\" tvg-logo=\"http://troya.one/images/chIcons/1229.png\" tvg-rec=\"3\", MM Агата Кристи HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1229/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8nbhswEqUecBO5S6xGM4pxF-LZS7VeQkuEA3wamainN
+#EXTINF:0 tvg-id=\"MM Боевик Classic HD\" tvg-logo=\"http://troya.one/images/chIcons/1232.png\" tvg-rec=\"3\", MM Боевик Classic HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1232/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1WVZdboYLFDethozK0S8fp3ZixiwjHTcjJOQ29lf-Fx
+#EXTINF:0 tvg-id=\"MM Боевик HD\" tvg-logo=\"http://troya.one/images/chIcons/1233.png\" tvg-rec=\"3\", MM Боевик HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1233/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2meymomnk1AavnmzYKJ2Q4l7rkBPRS2Xuzeq1CyjqFN
+#EXTINF:0 tvg-id=\"MM Вестерн HD\" tvg-logo=\"http://troya.one/images/chIcons/1234.png\" tvg-rec=\"3\", MM Вестерн HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1234/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B9hzCMlprEWfgfPJCGFoecPvaLLObvXZZ7LicNqhWpzd
+#EXTINF:0 tvg-id=\"MM Затмение HD\" tvg-logo=\"http://troya.one/images/chIcons/1237.png\" tvg-rec=\"3\", MM Затмение HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1237/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-uAJCViGAhKt1CCD455YNHp4ujwt52zo1lVgdiVRY0U
+#EXTINF:0 tvg-id=\"MM История HD\" tvg-logo=\"http://troya.one/images/chIcons/1238.png\" tvg-rec=\"3\", MM История HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1238/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwHX0dD5rq0XL7ZOnKTVG4PpKy2Qr1o3rTgn5ebHB7Oa
+#EXTINF:0 tvg-id=\"MM Катастрофа HD\" tvg-logo=\"http://troya.one/images/chIcons/1239.png\" tvg-rec=\"3\", MM Катастрофа HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1239/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3I-bEQQvomcc2u5c4qX8zNSDPy4vepjiUpzKETUdTW4
+#EXTINF:0 tvg-id=\"MM Киберпанк HD\" tvg-logo=\"http://troya.one/images/chIcons/1241.png\" tvg-rec=\"3\", MM Киберпанк HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1241/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bw3qaQ15xVrl3RFyBtR6ess38Nzfp1ADJYizwSyTi7Aw
+#EXTINF:0 tvg-id=\"MM Комедия Classic HD\" tvg-logo=\"http://troya.one/images/chIcons/1242.png\" tvg-rec=\"3\", MM Комедия Classic HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1242/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BzqAwueCut5G5QaSc6gcRFPEmsMLqo7sLyM6ifQ4ZP6C
+#EXTINF:0 tvg-id=\"MM Комедия HD\" tvg-logo=\"http://troya.one/images/chIcons/1243.png\" tvg-rec=\"3\", MM Комедия HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1243/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2InN5zh200EcCGt4dIAgmXTzF1uKLtVOfWo1atR_MHP
+#EXTINF:0 tvg-id=\"MM Криминал HD\" tvg-logo=\"http://troya.one/images/chIcons/1244.png\" tvg-rec=\"3\", MM Криминал HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1244/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0RcnrucW_ZXUftyLgj4EPmuohn7QID4XwTBW4jiA9Hf
+#EXTINF:0 tvg-id=\"MM Крутые 90-е HD\" tvg-logo=\"http://troya.one/images/chIcons/1245.png\" tvg-rec=\"3\", MM Крутые 90-е HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1245/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0mIfoV3FWE4XLvwFUp3yPhijxDpb0w7NSI0qaCR4XEF
+#EXTINF:0 tvg-id=\"MM Кунг-Фу HD\" tvg-logo=\"http://troya.one/images/chIcons/1246.png\" tvg-rec=\"3\", MM Кунг-Фу HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1246/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-zzodAwdNC8ZM7OOoLw2dwjyfMdUYWoNTH4NDOUJj_U
+#EXTINF:0 tvg-id=\"MM Мифология HD\" tvg-logo=\"http://troya.one/images/chIcons/1249.png\" tvg-rec=\"3\", MM Мифология HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1249/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bz2ea8Zto3LZrIp70GMRyhde2oO0iCUUBkfHCTukH08M
+#EXTINF:0 tvg-id=\"MM Погружение HD\" tvg-logo=\"http://troya.one/images/chIcons/1252.png\" tvg-rec=\"3\", MM Погружение HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1252/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B_VwjAjxW8tS6F_uJVHcGId6CiDnTxYKBNoTqZ3uPGj5
+#EXTINF:0 tvg-id=\"MM Роскино HD\" tvg-logo=\"http://troya.one/images/chIcons/1255.png\" tvg-rec=\"3\", MM Роскино HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1255/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwxEHmhp7nNtG9gbwriSh6LIDnd07XCmDsskmtYb1Jn8
+#EXTINF:0 tvg-id=\"MM Нуар HD\" tvg-logo=\"http://troya.one/images/chIcons/1250.png\" tvg-rec=\"3\", MM Нуар HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1250/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2dtTvIMgqQ9df5TEzvIjbdF_dodkZBb6uD-qdWYjJmj
+#EXTINF:0 tvg-id=\"MM Приключения HD\" tvg-logo=\"http://troya.one/images/chIcons/1254.png\" tvg-rec=\"3\", MM Приключения HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1254/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BxiRdDrGuXFwWLnIWpHQxpxACcj9LTDxSUeKV9b2und1
+#EXTINF:0 tvg-id=\"MM Грайндхаус HD\" tvg-logo=\"http://troya.one/images/chIcons/1230.png\" tvg-rec=\"3\", MM Грайндхаус HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1230/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2GHbaSPmzCCcjjSqxgLSfIAyPHzGGRR8xPwq3N3ABBp
+#EXTINF:0 tvg-id=\"MM Воронины HD\" tvg-logo=\"http://troya.one/images/chIcons/1236.png\" tvg-rec=\"0\", MM Воронины HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1236/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B5d-tRR43nSih-nG6pV2HogxlPTRVNmJNSnAU6Alb4k1
+#EXTINF:0 tvg-id=\"MM Ситком 2.0 HD\" tvg-logo=\"http://troya.one/images/chIcons/1251.png\" tvg-rec=\"3\", MM Ситком 2.0 HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1251/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bxx4vHhcrcLUiC6xiJl5DNGpukFk8A10rsIe49tVQq6p
+#EXTINF:0 tvg-id=\"MM Полицейский с Рублёвки HD\" tvg-logo=\"http://troya.one/images/chIcons/1253.png\" tvg-rec=\"0\", MM Полицейский с Рублёвки HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1253/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-CbT_-i3_P8SelGvEKk_tErKlkWpPYvAzjpqHFBnHzt
+#EXTINF:0 tvg-id=\"MM Сваты HD\" tvg-logo=\"http://troya.one/images/chIcons/1256.png\" tvg-rec=\"0\", MM Сваты HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1256/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1uge45y4Q-ExphgcHOss9sfXkKG9rEDGQ4QJcg-edIP
+#EXTINF:0 tvg-id=\"MM Ситком HD\" tvg-logo=\"http://troya.one/images/chIcons/1257.png\" tvg-rec=\"3\", MM Ситком HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1257/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-36SsuArcYaCwy-Q4-g3VOtmmZZKx3q8TVjwr46tMxZ
+#EXTINF:0 tvg-id=\"MM Скорость HD\" tvg-logo=\"http://troya.one/images/chIcons/1258.png\" tvg-rec=\"3\", MM Скорость HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1258/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3ByZCM2VcrFwfRy3j1LPrdCgItn6VKDUlHvw2WpAvqgnT
+#EXTINF:0 tvg-id=\"MM Спорт HD\" tvg-logo=\"http://troya.one/images/chIcons/1259.png\" tvg-rec=\"3\", MM Спорт HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1259/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bxss7hi0aZ4dfNRlbmimvtX2GLt2iiQxIwWtIqzS5KqS
+#EXTINF:0 tvg-id=\"MM Стивен Кинг HD\" tvg-logo=\"http://troya.one/images/chIcons/1260.png\" tvg-rec=\"3\", MM Стивен Кинг HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1260/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3ByNbWMwAuX353YQWcEzdec1LZSq1AOtCBX7zJh9sPc4a
+#EXTINF:0 tvg-id=\"MM Супергерои HD\" tvg-logo=\"http://troya.one/images/chIcons/1261.png\" tvg-rec=\"3\", MM Супергерои HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1261/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6gwu8loyandBPqgYAydYUJ1f49AlMMTVnP43DGLbtVe
+#EXTINF:0 tvg-id=\"MM Триллер HD\" tvg-logo=\"http://troya.one/images/chIcons/1263.png\" tvg-rec=\"3\", MM Триллер HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1263/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B34SFhOtKJApcI1CKd_9HKvG5HZJUisSPmpsGsVr0427
+#EXTINF:0 tvg-id=\"MM Ужастик HD\" tvg-logo=\"http://troya.one/images/chIcons/1264.png\" tvg-rec=\"3\", MM Ужастик HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1264/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3zU60pPimAzoPJrlNNQfHr2i8T92jb_7lP6lJ2Z8LAt
+#EXTINF:0 tvg-id=\"MM Синематограф HD\" tvg-logo=\"http://troya.one/images/chIcons/1266.png\" tvg-rec=\"3\", MM Синематограф HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1266/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B9QCtdFGPrRnIsCq7u3jG0BFge4OZnPSlMEPZr0I6coj
+#EXTINF:0 tvg-id=\"MM Фантастика HD\" tvg-logo=\"http://troya.one/images/chIcons/1267.png\" tvg-rec=\"3\", MM Фантастика HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1267/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwVJDdk1suuLUS7lzbjuf9Ensk7u8gWUSjdgeRQGPV_H
+#EXTINF:0 tvg-id=\"MM Фобия HD\" tvg-logo=\"http://troya.one/images/chIcons/1268.png\" tvg-rec=\"3\", MM Фобия HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1268/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7ZoQiOnOVx5CUHBeXtJmJsomJB1pI8BKMg7msXJtasV
+#EXTINF:0 tvg-id=\"MM Семейный 1 HD\" tvg-logo=\"http://troya.one/images/chIcons/1274.png\" tvg-rec=\"3\", MM Семейный 1 HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1274/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2---xMZgR_extpayEdlWF9TF5emcknFZBdtXIbZRRpc
+#EXTINF:0 tvg-id=\"MM Семейный 2 HD\" tvg-logo=\"http://troya.one/images/chIcons/1270.png\" tvg-rec=\"3\", MM Семейный 2 HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1270/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3uaec8Yufo3uOhUjInsclE_L4WHwjq8A6MCLRUG_hzv
+#EXTINF:0 tvg-id=\"MM USSR 1941-1945 HD\" tvg-logo=\"http://troya.one/images/chIcons/1223.png\" tvg-rec=\"3\", MM USSR 1941-1945 HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1223/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B9-Ae_ulXEqoFLGK_7Yk98JMkftOL00l6GfAl9Ypyvf6
+#EXTINF:0 tvg-id=\"MM USSR Детектив HD\" tvg-logo=\"http://troya.one/images/chIcons/1273.png\" tvg-rec=\"3\", MM USSR Детектив HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1273/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3ByyyEfQnSenNA32qVPHIfAamgT6FFBdKPcjw-A2JarnQ
+#EXTINF:0 tvg-id=\"MM USSR Приключения HD\" tvg-logo=\"http://troya.one/images/chIcons/1269.png\" tvg-rec=\"3\", MM USSR Приключения HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1269/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6j1lotmjqMF-LuMRoZWz4peaYKyCJN3qnPxHFlGvxpN
+#EXTINF:0 tvg-id=\"MM USSR Комедия HD\" tvg-logo=\"http://troya.one/images/chIcons/1224.png\" tvg-rec=\"3\", MM USSR Комедия HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1224/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6WYFm7jAinqzCPao53Jb5JBRQaN8UOHL8M54d3OZp2r
+#EXTINF:0 tvg-id=\"MM USSR Фантастика HD\" tvg-logo=\"http://troya.one/images/chIcons/1227.png\" tvg-rec=\"3\", MM USSR Фантастика HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1227/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BzCVxfpam1s6-JDN3qaW8egQTFsyavMn_R9m3pXuhS0w
+#EXTINF:0 tvg-id=\"MM Ужасы Classic HD\" tvg-logo=\"http://troya.one/images/chIcons/1275.png\" tvg-rec=\"3\", MM Ужасы Classic HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1275/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4U824c6TywVWo3w6X2WBlJnlz7ybSRxXq987DCXnMmP
+#EXTINF:0 tvg-id=\"MM Ужасы HD\" tvg-logo=\"http://troya.one/images/chIcons/1276.png\" tvg-rec=\"3\", MM Ужасы HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1276/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4PMlHm0wELkQYZ7izCQ9O1p3Pc2pch5UIt5bDM_fPGo
+#EXTINF:0 tvg-id=\"MM Celebrity HD\" tvg-logo=\"http://troya.one/images/chIcons/1286.png\" tvg-rec=\"3\", MM Celebrity HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1286/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6Grq0t9cKzEXUKD9KG0Xd3NEeG3S5DXXIGpSgYbYXCJ
+#EXTINF:0 tvg-id=\"MM Classic HD\" tvg-logo=\"http://troya.one/images/chIcons/1323.png\" tvg-rec=\"3\", MM Classic HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1323/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0cIgDr6G6Og4gl5ruUSTEF0Cd76YUZ6wIQaDho0yRBM
+#EXTINF:0 tvg-id=\"MM Драма HD\" tvg-logo=\"http://troya.one/images/chIcons/1324.png\" tvg-rec=\"3\", MM Драма HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1324/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2Wf99CLjRHk7OYWcH-UoEXFGysQ1U11z27FmK8NgNtk
+#EXTINF:0 tvg-id=\"MM Translation HD\" tvg-logo=\"http://troya.one/images/chIcons/1621.png\" tvg-rec=\"3\", MM Translation HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1621/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B98ihgUhSlFLXzZL3tJtteRHj6DPjBjji71ARofFKOs4
+#EXTINF:0 tvg-id=\"MM Кинофестиваль HD\" tvg-logo=\"http://troya.one/images/chIcons/2501.png\" tvg-rec=\"3\", MM Кинофестиваль HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2501/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Byg5zTodyNZ7bC72sYYroie_4kUPG2OKoggegJqB-C1x
+#EXTINF:0 tvg-id=\"MS Crime HD\" tvg-logo=\"http://troya.one/images/chIcons/1288.png\" tvg-rec=\"3\", MS Crime HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1288/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B5eyfAvA9brpAe1K4CFEbhhRB3M9JmJS5gTvmT_InvRE
+#EXTINF:0 tvg-id=\"MS Prisons HD\" tvg-logo=\"http://troya.one/images/chIcons/1289.png\" tvg-rec=\"3\", MS Prisons HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1289/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B43cgFe8I-fT3BKPah0X7ZgtPg5byaLmQpCOfNObNMfI
+#EXTINF:0 tvg-id=\"MS Young Blood HD\" tvg-logo=\"http://troya.one/images/chIcons/1291.png\" tvg-rec=\"3\", MS Young Blood HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1291/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B_BEOQyl87H5PeYDjGZ1NHD-BkmaJzzVU7lcKu2AREUk
+#EXTINF:0 tvg-id=\"MS Magic HD\" tvg-logo=\"http://troya.one/images/chIcons/3038.png\" tvg-rec=\"6\", MS Magic HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch3038/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-1K-J_AfYKIkmb_3YRRoVYv1YZqUMoOIMwI-BKvp5aL
+#EXTINF:0 tvg-id=\"Yosso TV Grand\" tvg-logo=\"http://troya.one/images/chIcons/1297.png\" tvg-rec=\"6\", Yosso TV Grand
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1297/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B_6-J2mG1RMhZTpnn_P12NlflZW2lGnWFeq_gdh2IGht
+#EXTINF:0 tvg-id=\"Yosso TV VHS\" tvg-logo=\"http://troya.one/images/chIcons/1298.png\" tvg-rec=\"6\", Yosso TV VHS
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1298/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3EBK2i2FkAeqcw5Yd1OcdZ13a_bsOo5ak21JbwV-MYD
+#EXTINF:0 tvg-id=\"Yosso TV Русские Фильмы\" tvg-logo=\"http://troya.one/images/chIcons/1300.png\" tvg-rec=\"6\", Yosso TV Русские Фильмы
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1300/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8a9yBjUl5_VEEepRE2BEi-gAR7n7qpc0Lmk7_-qFUMx
+#EXTINF:0 tvg-id=\"Yosso TV Советские Фильмы\" tvg-logo=\"http://troya.one/images/chIcons/1301.png\" tvg-rec=\"6\", Yosso TV Советские Фильмы
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1301/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3hGjRKAbSifW3Z4jfd5ahjVuxjegqNLKCt1IXUxy6N-
+#EXTINF:0 tvg-id=\"Yosso TV New Кино\" tvg-logo=\"http://troya.one/images/chIcons/1303.png\" tvg-rec=\"6\", Yosso TV New Кино
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1303/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B40IEXrr2WyG8De6-eZUDp5YlIl_jrUM09Xa9SWX5KsN
+#EXTINF:0 tvg-id=\"Yosso TV Трагичное\" tvg-logo=\"http://troya.one/images/chIcons/1306.png\" tvg-rec=\"6\", Yosso TV Трагичное
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1306/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4xQJtrP32vipThltfycAYvPCRikNYTsAaZ31575Owux
+#EXTINF:0 tvg-id=\"Yosso TV Забавное\" tvg-logo=\"http://troya.one/images/chIcons/1307.png\" tvg-rec=\"6\", Yosso TV Забавное
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1307/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8NdQHt4GxQEGc9g4p4klgn6rFOJY5NG50m9idm8JeX2
+#EXTINF:0 tvg-id=\"Yosso TV Best\" tvg-logo=\"http://troya.one/images/chIcons/1308.png\" tvg-rec=\"6\", Yosso TV Best
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1308/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B74tQAYq6bwj4weDQrfy4hU5V0p_WOJDqd5iSnRaN2f6
+#EXTINF:0 tvg-id=\"Yosso TV Ковбойское\" tvg-logo=\"http://troya.one/images/chIcons/1309.png\" tvg-rec=\"6\", Yosso TV Ковбойское
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1309/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwtQ2KlA34UwfYAv3P5NLm5bkUiRQGoY1ktDLMQ_k7sJ
+#EXTINF:0 tvg-id=\"Yosso TV Adrenaline\" tvg-logo=\"http://troya.one/images/chIcons/1310.png\" tvg-rec=\"6\", Yosso TV Adrenaline
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1310/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3jUYm4ya5wnT-Hcz696Tz3yiuU4f-fF-Y9Xfj0FbSlj
+#EXTINF:0 tvg-id=\"Yosso TV Oblivion\" tvg-logo=\"http://troya.one/images/chIcons/1311.png\" tvg-rec=\"6\", Yosso TV Oblivion
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1311/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1g-fnFGB-lQ3qoIrrmE7axKlPK2ZH2Fpl2XsWLZa-fl
+#EXTINF:0 tvg-id=\"Yosso TV Adventure\" tvg-logo=\"http://troya.one/images/chIcons/1312.png\" tvg-rec=\"6\", Yosso TV Adventure
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1312/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3ByIdNHasrmsqGkrAIZtqysolMhi5BJ91C5dEImvJeVMT
+#EXTINF:0 tvg-id=\"Yosso TV Thriller\" tvg-logo=\"http://troya.one/images/chIcons/1313.png\" tvg-rec=\"6\", Yosso TV Thriller
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1313/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B_JQHSmx3psbcnhnZ6PQ7d4_0M6l64vmVS9YDpFJCS_e
+#EXTINF:0 tvg-id=\"Yosso TV Мелодрама\" tvg-logo=\"http://troya.one/images/chIcons/2062.png\" tvg-rec=\"6\", Yosso TV Мелодрама
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2062/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BzuDUeVhrrAFokpE7HuU4iognhlb4_drLHZo0TrGGzzT
+#EXTINF:0 tvg-id=\"Yosso TV Netflix\" tvg-logo=\"http://troya.one/images/chIcons/2455.png\" tvg-rec=\"6\", Yosso TV Netflix
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2455/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0_I30qO3umZ14hSnVstgpaEZNXh34CqdLLGvSpdMQ_Z
+#EXTINF:0 tvg-id=\"Yosso TV Best 60fps\" tvg-logo=\"http://troya.one/images/chIcons/2457.png\" tvg-rec=\"6\", Yosso TV Best 60fps
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2457/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwMmushOyI_XqNTJn670IuRT6tqU7f-cpHDyJUfJjJdj
+#EXTINF:0 tvg-id=\"Yosso TV C-Marvel\" tvg-logo=\"http://troya.one/images/chIcons/1315.png\" tvg-rec=\"6\", Yosso TV C-Marvel
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1315/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1BFBxDn38kdi5BQYrIJrkv1s_Uj0CpWHS4iUO-1rQbF
+#EXTINF:0 tvg-id=\"Yosso TV C-Inquest\" tvg-logo=\"http://troya.one/images/chIcons/1001.png\" tvg-rec=\"6\", Yosso TV C-Inquest
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1001/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2zRt56Qks8ORtqI_4e9XlMgccc5leyYpG8_pZy8623G
+#EXTINF:0 tvg-id=\"Yosso TV C-Comedy\" tvg-logo=\"http://troya.one/images/chIcons/1002.png\" tvg-rec=\"6\", Yosso TV C-Comedy
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1002/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-R3CkF4wItWMEItDLb8mtPPdmkQREzP0OYhS7ETTmJp
+#EXTINF:0 tvg-id=\"Yosso TV C-History HD\" tvg-logo=\"http://troya.one/images/chIcons/1575.png\" tvg-rec=\"6\", Yosso TV C-History HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1575/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B_in8qG68P-YfBL2Pmc_xSJO95BQsXINA910xbVkgirC
+#EXTINF:0 tvg-id=\"Yosso TV C-Holiday\" tvg-logo=\"http://troya.one/images/chIcons/394.png\" tvg-rec=\"6\", Yosso TV C-Holiday
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch394/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3HFZCzQepOTAvISgor3EK7r7PeT_8dRGhjYEf9M3S9B
+#EXTINF:0 tvg-id=\"Magic Action\" tvg-logo=\"http://troya.one/images/chIcons/1556.png\" tvg-rec=\"3\", Magic Action
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1556/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3By7lpUohXGjnkL-KxOgVXc1pBBlQrFuy9UIeiRZKo2HE
+#EXTINF:0 tvg-id=\"Magic Adventure\" tvg-logo=\"http://troya.one/images/chIcons/2203.png\" tvg-rec=\"3\", Magic Adventure
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2203/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bwq1u0syW7a3Cj03orgaz0B-KQ-VD9WpYY1zzt48f4rX
+#EXTINF:0 tvg-id=\"Magic Comedy\" tvg-logo=\"http://troya.one/images/chIcons/1557.png\" tvg-rec=\"3\", Magic Comedy
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1557/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6Iaa1UXC6F5TG2qH7hmh4dDuKOafgZtdulFNldZaQuc
+#EXTINF:0 tvg-id=\"Magic Galaxy\" tvg-logo=\"http://troya.one/images/chIcons/1559.png\" tvg-rec=\"3\", Magic Galaxy
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1559/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3GulgIaYSsUH6WgfxJbMjqJpAJFx-W4NHXt3pjldiut
+#EXTINF:0 tvg-id=\"Magic Horror\" tvg-logo=\"http://troya.one/images/chIcons/1560.png\" tvg-rec=\"3\", Magic Horror
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1560/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6sd2iDX2m1hGsMvOotFLZYMDETu8_FyX88vc6G5O20B
+#EXTINF:0 tvg-id=\"Magic Russian\" tvg-logo=\"http://troya.one/images/chIcons/992.png\" tvg-rec=\"3\", Magic Russian
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch992/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0JS3JtJ9B4oKE682LMxA-lGw5fWaFwAoVQGkHRVNM8P
+#EXTINF:0 tvg-id=\"Magic Karate\" tvg-logo=\"http://troya.one/images/chIcons/1561.png\" tvg-rec=\"3\", Magic Karate
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1561/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0hsqgzP5zZtv1HecvKnva7oiEZODQCcDRz89XhqVszI
+#EXTINF:0 tvg-id=\"Magic Thriller\" tvg-logo=\"http://troya.one/images/chIcons/1562.png\" tvg-rec=\"3\", Magic Thriller
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1562/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3lHF7Zxm9M1-gTlq0z0K-dnbCdMud44Xb61eY7x_vQo
+#EXTINF:0 tvg-id=\"Magic VHS\" tvg-logo=\"http://troya.one/images/chIcons/1563.png\" tvg-rec=\"3\", Magic VHS
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1563/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8vGoPIa5AArAxN-bGY4UMEwHPpWAzz4Vg3yUaOjoZjU
+#EXTINF:0 tvg-id=\"Magic Love\" tvg-logo=\"http://troya.one/images/chIcons/1581.png\" tvg-rec=\"3\", Magic Love
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1581/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6vLCP4quXM2-ZiwZcqZ0bE8kyFnSi42FtRxvHHF_MBS
+#EXTINF:0 tvg-id=\"Magic Family\" tvg-logo=\"http://troya.one/images/chIcons/1582.png\" tvg-rec=\"3\", Magic Family
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1582/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bx0aD7ALMmlzQL963wZaA9O5_f7lXHOMVZUk7LZaIINF
+#EXTINF:0 tvg-id=\"Fresh Adventure\" tvg-logo=\"http://troya.one/images/chIcons/1721.png\" tvg-rec=\"3\", Fresh Adventure
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1721/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwKEqCtC2yo5gnHopkNZSDFzBOY_6paTQw-SuwGJ8A_1
+#EXTINF:0 tvg-id=\"Fresh Cinema\" tvg-logo=\"http://troya.one/images/chIcons/1722.png\" tvg-rec=\"3\", Fresh Cinema
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1722/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3EEVhTvURplr5xlBx9pqscHB7CcboCCNWbzfXmtjDjT
+#EXTINF:0 tvg-id=\"Fresh Comedy\" tvg-logo=\"http://troya.one/images/chIcons/1723.png\" tvg-rec=\"3\", Fresh Comedy
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1723/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BxUzZvvvajERMtsEMRZ0a8TFp6BIveoY6QO9zZuXpVvA
+#EXTINF:0 tvg-id=\"Fresh Family\" tvg-logo=\"http://troya.one/images/chIcons/1724.png\" tvg-rec=\"3\", Fresh Family
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1724/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B13m_IOSvEZNz1HRhumVgzHA0HUb68OmKVl7PkhpxjPt
+#EXTINF:0 tvg-id=\"Fresh Fantastic\" tvg-logo=\"http://troya.one/images/chIcons/1725.png\" tvg-rec=\"3\", Fresh Fantastic
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1725/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3pbYh6jLBEWK2cLc7YLEVHKFi88JDj8HIK47Awxl1nK
+#EXTINF:0 tvg-id=\"Fresh Horror\" tvg-logo=\"http://troya.one/images/chIcons/1726.png\" tvg-rec=\"3\", Fresh Horror
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1726/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1mby0c2ifUSEAo3T8tK_W5zBg2QW8GV1qMu80u4OI6N
+#EXTINF:0 tvg-id=\"Fresh Premiere\" tvg-logo=\"http://troya.one/images/chIcons/1727.png\" tvg-rec=\"3\", Fresh Premiere
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1727/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6GV0KZxLQGpxV8f8jt8_jE9ybpY6zIez4zjPU_v3Tlb
+#EXTINF:0 tvg-id=\"Fresh Rating\" tvg-logo=\"http://troya.one/images/chIcons/1728.png\" tvg-rec=\"3\", Fresh Rating
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1728/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0F4goa0AiNzvN5-bFcl5jFkKKD49yfI0g5RPOXQ7nft
+#EXTINF:0 tvg-id=\"Fresh Romantic\" tvg-logo=\"http://troya.one/images/chIcons/1729.png\" tvg-rec=\"3\", Fresh Romantic
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1729/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6jDaRc8I-lMIPHhgOdlBA7Q1ApLnWnK3ld-ZrlErWMW
+#EXTINF:0 tvg-id=\"Fresh Russian\" tvg-logo=\"http://troya.one/images/chIcons/1730.png\" tvg-rec=\"3\", Fresh Russian
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1730/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7vrOkseLkjEw7Qp0_gvjoV2kfWKXUJYbcYuZ8SGgNYu
+#EXTINF:0 tvg-id=\"Fresh Series\" tvg-logo=\"http://troya.one/images/chIcons/1731.png\" tvg-rec=\"3\", Fresh Series
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1731/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1KJtNMjtrwh0LjrqKslKHLnsmF3uAk8FjgTPEQPuAAA
+#EXTINF:0 tvg-id=\"Fresh Soviet\" tvg-logo=\"http://troya.one/images/chIcons/1732.png\" tvg-rec=\"3\", Fresh Soviet
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1732/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B5A9B8hhzMhCYr7vRTGzAgmJNJhooQtB5RSxficDka9k
+#EXTINF:0 tvg-id=\"Fresh Thriller\" tvg-logo=\"http://troya.one/images/chIcons/1733.png\" tvg-rec=\"3\", Fresh Thriller
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1733/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BxfBPrqou0z2Qy_YM2eYihjDBOSoaXudDtI-vDJyweGH
+#EXTINF:0 tvg-id=\"Fresh Vhs\" tvg-logo=\"http://troya.one/images/chIcons/1734.png\" tvg-rec=\"3\", Fresh Vhs
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1734/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bxp5GKPcGKulJ3a0Z3sKgPsW9Zxk7yz__dYCScZacg28
+#EXTINF:0 tvg-id=\"Liberty DC FHD\" tvg-logo=\"http://troya.one/images/chIcons/1741.png\" tvg-rec=\"3\", Liberty DC FHD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1741/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B44Wzq5qz4OFjlLFCC3wfgPBlOygzDtB93uZFFeh8nkM
+#EXTINF:0 tvg-id=\"Liberty Короткометражный FHD\" tvg-logo=\"http://troya.one/images/chIcons/1745.png\" tvg-rec=\"3\", Liberty Короткометражный FHD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1745/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3Pcek8Wt2HFzE7hDEfxTthYw7NqpMkywty8wY9klXxl
+#EXTINF:0 tvg-id=\"Liberty Мелодрамы FHD\" tvg-logo=\"http://troya.one/images/chIcons/1748.png\" tvg-rec=\"3\", Liberty Мелодрамы FHD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1748/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3_GSslQ6rumPMGhPh9eLR7saWr0TbmDg0xya3zEm8OA
+#EXTINF:0 tvg-id=\"Liberty Боевики FHD\" tvg-logo=\"http://troya.one/images/chIcons/1749.png\" tvg-rec=\"3\", Liberty Боевики FHD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1749/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B_HEuvxcxpCEbWvOEoW6ucfm_0HNqgEJMg3ppruo-kDh
+#EXTINF:0 tvg-id=\"Liberty Сваты FHD\" tvg-logo=\"http://troya.one/images/chIcons/1752.png\" tvg-rec=\"3\", Liberty Сваты FHD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1752/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwsDmpJFwFQig0EmBHHsekWawTwdlb5a3ISAa0QcLJwH
+#EXTINF:0 tvg-id=\"Liberty Комедии FHD\" tvg-logo=\"http://troya.one/images/chIcons/1754.png\" tvg-rec=\"3\", Liberty Комедии FHD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1754/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-pzKLEppwMIEw-HN-o9dk_vz6BxslZqq0yIAyqXuoLv
+#EXTINF:0 tvg-id=\"Liberty Сериалы FHD\" tvg-logo=\"http://troya.one/images/chIcons/1755.png\" tvg-rec=\"3\", Liberty Сериалы FHD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1755/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BxZkBviG1BYe3ejJZuHxd8L1fzOnrBpDUzNfokS4dj2V
+#EXTINF:0 tvg-id=\"Liberty Занавес FHD\" tvg-logo=\"http://troya.one/images/chIcons/1760.png\" tvg-rec=\"3\", Liberty Занавес FHD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1760/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0VIHv3erZHtiIegVWdzoKOW5UtsMfxLkYZsSRS47t1p
+#EXTINF:0 tvg-id=\"Liberty Аниме FHD\" tvg-logo=\"http://troya.one/images/chIcons/1761.png\" tvg-rec=\"3\", Liberty Аниме FHD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1761/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4mMkY5wjlIifvLxD_LOPQYJi0_bD2c2BLi2SwpPAB_r
+#EXTINF:0 tvg-id=\"Liberty Шоу FHD\" tvg-logo=\"http://troya.one/images/chIcons/1762.png\" tvg-rec=\"3\", Liberty Шоу FHD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1762/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwOWUivqFqBqdm77JtRv0KlRKKsVzhwHCU7quNRqhFzN
+#EXTINF:0 tvg-id=\"Liberty Fan FHD\" tvg-logo=\"http://troya.one/images/chIcons/1574.png\" tvg-rec=\"3\", Liberty Fan FHD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1574/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwphwJgoFSK3GvuT71m7LJWYUwFX3sk9IZUUM6uW7kOX
+#EXTINF:0 tvg-id=\"Liberty Marvel FHD\" tvg-logo=\"http://troya.one/images/chIcons/1744.png\" tvg-rec=\"3\", Liberty Marvel FHD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1744/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6UXaTOHpCFAhukLyR4u_fw2CCZQT6-LMlzdaBJZyqfp
+#EXTINF:0 tvg-id=\"Liberty Plankton FHD\" tvg-logo=\"http://troya.one/images/chIcons/2341.png\" tvg-rec=\"7\", Liberty Plankton FHD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2341/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1L7GQwEdAFr4ECPGz6BB9xQ4RuWEonnoUYYQBNo26OM
+#EXTINF:0 tvg-id=\"Liberty South Park FHD\" tvg-logo=\"http://troya.one/images/chIcons/1753.png\" tvg-rec=\"3\", Liberty South Park FHD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1753/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B20tVzacLqGFI5I8a6QDHMpj573TH2_0ScQyJ3ziZKl3
+#EXTINF:0 tvg-id=\"TOP 80\" tvg-logo=\"http://troya.one/images/chIcons/1069.png\" tvg-rec=\"0\", TOP 80
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1069/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B5TpMVCmU6Kr2ySmz_O1Qt60z-SXE7fiy55WAfsMOKCL
+#EXTINF:0 tvg-id=\"TOP Великолепный Век\" tvg-logo=\"http://troya.one/images/chIcons/1068.png\" tvg-rec=\"0\", TOP Великолепный Век
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1068/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8N5LDjb1Tvg7gNmIKbdw7Qv1M-jdC6-VTpjfTrJGgRl
+#EXTINF:0 tvg-id=\"TOP BUDO HD\" tvg-logo=\"http://troya.one/images/chIcons/1070.png\" tvg-rec=\"0\", TOP BUDO HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1070/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-o09974LfJn98iJFM3T0fwFkZd3lVaFDojMw9YTUIo5
+#EXTINF:0 tvg-id=\"TOP CINEMA HD\" tvg-logo=\"http://troya.one/images/chIcons/1071.png\" tvg-rec=\"0\", TOP CINEMA HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1071/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B9zUMummrkZgQbZ_4LQCVTFzekcAQxeKDhdR4qMs5jCz
+#EXTINF:0 tvg-id=\"TOP USSR\" tvg-logo=\"http://troya.one/images/chIcons/1072.png\" tvg-rec=\"0\", TOP USSR
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1072/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6aCQkoV_l1peisk5tyNMbhzM3JupOnrjGV2n4-Plqse
+#EXTINF:0 tvg-id=\"TOP MIX HD\" tvg-logo=\"http://troya.one/images/chIcons/1073.png\" tvg-rec=\"0\", TOP MIX HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1073/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-W7Lpz6On1Docb1F6VLgGG3V2D5GJRo6XLuTvi9rtSv
+#EXTINF:0 tvg-id=\"Sky High Heroes HD\" tvg-logo=\"http://troya.one/images/chIcons/1961.png\" tvg-rec=\"6\", Sky High Heroes HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1961/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6lqtTev-S870j2KAFIxm4pLA77pvhOvGHihx4u1g0hW
+#EXTINF:0 tvg-id=\"Sky High Epoch HD\" tvg-logo=\"http://troya.one/images/chIcons/1962.png\" tvg-rec=\"6\", Sky High Epoch HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1962/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2JzWA9BKX2miaObYXxk3LNaeqjo6Uk5HVjv-rud5imd
+#EXTINF:0 tvg-id=\"Sky High Fresh HD\" tvg-logo=\"http://troya.one/images/chIcons/1963.png\" tvg-rec=\"6\", Sky High Fresh HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1963/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7L5LV2aXxzBAKGbMkZQyvts819GCkYg9yiMFPHq9Fr4
+#EXTINF:0 tvg-id=\"Sky High Man HD\" tvg-logo=\"http://troya.one/images/chIcons/1964.png\" tvg-rec=\"6\", Sky High Man HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1964/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3Y6kxd7Pwc58NU2dfbQKIiuMsd0ZJ_U8cO3JJ0u3dWu
+#EXTINF:0 tvg-id=\"Sky High Series HD\" tvg-logo=\"http://troya.one/images/chIcons/1965.png\" tvg-rec=\"6\", Sky High Series HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1965/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B_1vQU5n3f3G6hyIFy_ZsMXyX-qovVNcyr-fgc7Oymjm
+#EXTINF:0 tvg-id=\"Sky High Russian HD\" tvg-logo=\"http://troya.one/images/chIcons/1966.png\" tvg-rec=\"6\", Sky High Russian HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1966/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B5WOCHLu90Wccixjbp5bpz7aGdDWIqihjwOVuUUeqfmb
+#EXTINF:0 tvg-id=\"Sky High Чбу HD\" tvg-logo=\"http://troya.one/images/chIcons/1967.png\" tvg-rec=\"6\", Sky High Чбу HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1967/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1l9Clc6OKujoIcJnVNI6p7uq8X3txGqtpon4rWZuJW-
+#EXTINF:0 tvg-id=\"Sky High Future HD\" tvg-logo=\"http://troya.one/images/chIcons/1968.png\" tvg-rec=\"6\", Sky High Future HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1968/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8L8c9j_s84cFsxtp0Ir-WVbsJpJQsTq7dxtSpp7vpHJ
+#EXTINF:0 tvg-id=\"Sky High Spirit HD\" tvg-logo=\"http://troya.one/images/chIcons/1969.png\" tvg-rec=\"6\", Sky High Spirit HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1969/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B590VUWbYnbmw5ARQiBUWAQsvvVgPr9pVHNC-aiCY3Nn
+#EXTINF:0 tvg-id=\"Sky High Anime HD\" tvg-logo=\"http://troya.one/images/chIcons/1970.png\" tvg-rec=\"6\", Sky High Anime HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1970/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3ByI7no9tZ2Igi6RDUGvwumgfjAK0zWjwuDlEjdDjkc0W
+#EXTINF:0 tvg-id=\"Sky High Noir HD\" tvg-logo=\"http://troya.one/images/chIcons/1973.png\" tvg-rec=\"6\", Sky High Noir HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1973/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3bd8ZwKBUkoUCTJbkXGhUVsNbeUwnch2nq5Cal_iSPo
+#EXTINF:0 tvg-id=\"Sky High Orig HD\" tvg-logo=\"http://troya.one/images/chIcons/1976.png\" tvg-rec=\"6\", Sky High Orig HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1976/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bxa9Tg03dVt_BbNEnMQaWP_kP76pUpz9Hm_FBu88zG4g
+#EXTINF:0 tvg-id=\"Sky High 3D\" tvg-logo=\"http://troya.one/images/chIcons/1977.png\" tvg-rec=\"6\", Sky High 3D
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1977/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwdjABYR_rsAlEHrdnjuYYyIxvvQTZaP0Cno6szq0znZ
+#EXTINF:0 tvg-id=\"KLI Premium HD\" tvg-logo=\"http://troya.one/images/chIcons/2266.png\" tvg-rec=\"7\", KLI Premium HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2266/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4HACyDb-I7mdt_lSDiehhP_zMnmNgQWwFwp7Q4Ffv1Q
+#EXTINF:0 tvg-id=\"KLI Cinema HD\" tvg-logo=\"http://troya.one/images/chIcons/2267.png\" tvg-rec=\"7\", KLI Cinema HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2267/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B54TN0hcYqeBtMT0I_reXVHrzsnsgBRUT7nuaK7W7oMQ
+#EXTINF:0 tvg-id=\"KLI Comedy HD\" tvg-logo=\"http://troya.one/images/chIcons/2268.png\" tvg-rec=\"7\", KLI Comedy HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2268/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BxzpAapLNgurZjj7-acYof0qLNLiJgrJPnrx7EMfo7LD
+#EXTINF:0 tvg-id=\"KLI History HD\" tvg-logo=\"http://troya.one/images/chIcons/2269.png\" tvg-rec=\"7\", KLI History HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2269/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7iJWcV9k33c3F2yBS1QEqDjwqM2iOa_Sf4U3gIHhTcI
+#EXTINF:0 tvg-id=\"KLI Russian HD\" tvg-logo=\"http://troya.one/images/chIcons/2270.png\" tvg-rec=\"7\", KLI Russian HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2270/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B5KyKZ3CbDjGFk1yZKAXtCgE3Lq_vrZ5AjrjUncNM6OZ
+#EXTINF:0 tvg-id=\"KLI Fantastic HD\" tvg-logo=\"http://troya.one/images/chIcons/2271.png\" tvg-rec=\"7\", KLI Fantastic HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2271/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4Z0__UkBIu533r7AnXiEsizxUUPgLlu21ICLRlhi0RA
+#EXTINF:0 tvg-id=\"KLI VHS HD\" tvg-logo=\"http://troya.one/images/chIcons/2272.png\" tvg-rec=\"7\", KLI VHS HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2272/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1-OIl9D10Opx4ZxRjt55YqyeUB2OIApwRd9vWNcGLF2
+#EXTINF:0 tvg-id=\"KLI Thriller HD\" tvg-logo=\"http://troya.one/images/chIcons/2273.png\" tvg-rec=\"7\", KLI Thriller HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2273/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4ZXzs8Q4D4fQcWLhuCXNhVqbUTXx6Yh5ek5avnlHwj6
+#EXTINF:0 tvg-id=\"KLI USSR HD\" tvg-logo=\"http://troya.one/images/chIcons/2274.png\" tvg-rec=\"7\", KLI USSR HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2274/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2EAMnM3fEz3qu2j7J_BMICCCzZqE4pad-po6q5sLmv3
+#EXTINF:0 tvg-id=\"KLI Family HD\" tvg-logo=\"http://troya.one/images/chIcons/2275.png\" tvg-rec=\"7\", KLI Family HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2275/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B247zcP8XPX0X4Xa9EZovUnUQv6ftBsxiD8Ml1EjkI9-
+#EXTINF:0 tvg-id=\"KLI Kinoseries\" tvg-logo=\"http://troya.one/images/chIcons/2276.png\" tvg-rec=\"7\", KLI Kinoseries
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2276/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1tq37JWIRItjPyBZu60dRb3uSyLl1CR8dB12ebgWyH7
+#EXTINF:0 tvg-id=\"KLI Horror HD\" tvg-logo=\"http://troya.one/images/chIcons/2277.png\" tvg-rec=\"7\", KLI Horror HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2277/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B9tCqkjMp-IxpAcC6gkzvi8tRw4TE3disDhGxtSprOzL
+#EXTINF:0 tvg-id=\"KLI Action HD\" tvg-logo=\"http://troya.one/images/chIcons/2278.png\" tvg-rec=\"7\", KLI Action HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2278/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8U1DsiqgrO4ZiTFtp_KX4MY549UtqgrGu2MOeNpQBbO
+#EXTINF:0 tvg-id=\"KLI Drama HD\" tvg-logo=\"http://troya.one/images/chIcons/2279.png\" tvg-rec=\"7\", KLI Drama HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2279/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6TTR3AtMf6rQSeoao7tjA9D54hlxST-1CP3RJr4JBZw
+#EXTINF:0 tvg-id=\"KLI Fantasy HD\" tvg-logo=\"http://troya.one/images/chIcons/2280.png\" tvg-rec=\"7\", KLI Fantasy HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2280/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B5C-atCPYhTF2WxZiGWh9WH6PF2bv8qBRRwZ7pwJWxGE
+#EXTINF:0 tvg-id=\"KLI Сериал HD\" tvg-logo=\"http://troya.one/images/chIcons/2932.png\" tvg-rec=\"7\", KLI Сериал HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2932/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4EakHtX12OZkROTvqhqbdakGwudbRbWiBFMg-p4a55K
+#EXTINF:0 tvg-id=\"KLI Netflix HD\" tvg-logo=\"http://troya.one/images/chIcons/2461.png\" tvg-rec=\"7\", KLI Netflix HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2461/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B26hpAApvtoyQxsQQjpOF81uicoUnKT8oztso0ItedqP
+#EXTINF:0 tvg-id=\"KLI Marvel HD\" tvg-logo=\"http://troya.one/images/chIcons/2463.png\" tvg-rec=\"7\", KLI Marvel HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2463/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7SPfGQDbHZcjGQMtXf2cXfaT2YNQbSb-KesuhIIYBOk
+#EXTINF:0 tvg-id=\"KLI Новинки HD\" tvg-logo=\"http://troya.one/images/chIcons/2464.png\" tvg-rec=\"7\", KLI Новинки HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2464/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-t1JOT8DDFEwszApW_opSzfoEOw2ufOaQ3Xno0XFxiu
+#EXTINF:0 tvg-id=\"KLI Franchise HD\" tvg-logo=\"http://troya.one/images/chIcons/2703.png\" tvg-rec=\"7\", KLI Franchise HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2703/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bzn_NKqLIg43T58l3xlNztrQLePQsAlFc1ZAyh8r_y20
+#EXTINF:0 tvg-id=\"KLI Однажды в России HD\" tvg-logo=\"http://troya.one/images/chIcons/3076.png\" tvg-rec=\"0\", KLI Однажды в России HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch3076/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B5ZF5S8uYciQku8R-Sp6uoWvel12-YkQVakfm-BQekNm
+#EXTINF:0 tvg-id=\"KLI Relax HD\" tvg-logo=\"http://troya.one/images/chIcons/2704.png\" tvg-rec=\"7\", KLI Relax HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2704/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8twt7SWiQhnI4VAvaJ9W0PgrZK-Ul3pypAHTP58x4Z9
+#EXTINF:0 tvg-id=\"BOX Anime HD\" tvg-logo=\"http://troya.one/images/chIcons/2281.png\" tvg-rec=\"6\", BOX Anime HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2281/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1y55I4o8Dmp0GIAfSjh5utYw1wW602eSRr3_YZWpmNx
+#EXTINF:0 tvg-id=\"BOX Cyber HD\" tvg-logo=\"http://troya.one/images/chIcons/2285.png\" tvg-rec=\"6\", BOX Cyber HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2285/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1mkPJiBintZl3AEI9obCp5wSsk3o_j76icHPPlLzXx4
+#EXTINF:0 tvg-id=\"BOX Fantasy HD\" tvg-logo=\"http://troya.one/images/chIcons/2287.png\" tvg-rec=\"6\", BOX Fantasy HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2287/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3ByURGSY6TNKaGF9RUtRLPJ9P6GYQBwi0zQVHD3l2VNR2
+#EXTINF:0 tvg-id=\"BOX Gangster HD\" tvg-logo=\"http://troya.one/images/chIcons/2290.png\" tvg-rec=\"6\", BOX Gangster HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2290/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1RHtZKXOQCr9fjXQRpn1_94jQnVHZ34yHGVdLY39pou
+#EXTINF:0 tvg-id=\"BOX Ghost HD\" tvg-logo=\"http://troya.one/images/chIcons/2291.png\" tvg-rec=\"6\", BOX Ghost HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2291/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3ap0UdlALXPXR4eqlQ6v-gmN8F-e2WQv9aTYxupMX6M
+#EXTINF:0 tvg-id=\"BOX Hybrid HD\" tvg-logo=\"http://troya.one/images/chIcons/2292.png\" tvg-rec=\"6\", BOX Hybrid HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2292/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7a7YcnfJyG9vJBNCcTmWnknFwilfGFqv8Y2ZmjDw-jX
+#EXTINF:0 tvg-id=\"BOX Oscar HD\" tvg-logo=\"http://troya.one/images/chIcons/2296.png\" tvg-rec=\"6\", BOX Oscar HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2296/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1xBPKVHcz8r4jR8GUeqGYS8-ReXyvWm1VI6-wrJ9fIj
+#EXTINF:0 tvg-id=\"BOX Sitcom HD\" tvg-logo=\"http://troya.one/images/chIcons/401.png\" tvg-rec=\"6\", BOX Sitcom HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch401/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3ByRuas65D11tOrSabNLAiSXorzcwPBkzYZyaWWlZ7wmm
+#EXTINF:0 tvg-id=\"BOX Serial HD\" tvg-logo=\"http://troya.one/images/chIcons/2301.png\" tvg-rec=\"6\", BOX Serial HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2301/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4c7sxp3aKJ6oV_sv3OHY9f-cfQwYZoOH7sNhv4mMIab
+#EXTINF:0 tvg-id=\"BOX Spy HD\" tvg-logo=\"http://troya.one/images/chIcons/2302.png\" tvg-rec=\"6\", BOX Spy HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2302/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwLpmuZaBOfYCEstdcuKb3x9gWyuAKgy68C75hh-qYok
+#EXTINF:0 tvg-id=\"BOX Western HD\" tvg-logo=\"http://troya.one/images/chIcons/2305.png\" tvg-rec=\"6\", BOX Western HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2305/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6JLJT-hglNnbvqw4R_ccWG0ZYiavlds7yJuTyHJTO5Y
+#EXTINF:0 tvg-id=\"BOX Zombie HD\" tvg-logo=\"http://troya.one/images/chIcons/2306.png\" tvg-rec=\"6\", BOX Zombie HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2306/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B56qmneXRk-nVzqtQRi1MzQSE7MBfgm4fwIA0xw_vWA9
+#EXTINF:0 tvg-id=\"BOX Apocalypse HD\" tvg-logo=\"http://troya.one/images/chIcons/2607.png\" tvg-rec=\"6\", BOX Apocalypse HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2607/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BywWrYRj-7ZGGpVcdz92jweUWa3R4dIxXb__YSgSLEVA
+#EXTINF:0 tvg-id=\"BOX Franchise HD\" tvg-logo=\"http://troya.one/images/chIcons/3056.png\" tvg-rec=\"6\", BOX Franchise HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch3056/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BzvPwcQmNS1R006PhciQgPEOOY3NLYhkckbyOwsBrb9e
+#EXTINF:0 tvg-id=\"VeleS 60FPS\" tvg-logo=\"http://troya.one/images/chIcons/2591.png\" tvg-rec=\"3\", VeleS 60FPS
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2591/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-ynmV4YJ-_0CHIt5Hb91Ixt24myg17BolAT5SCLCAzN
+#EXTINF:0 tvg-id=\"VeleS Кинопленка\" tvg-logo=\"http://troya.one/images/chIcons/2592.png\" tvg-rec=\"3\", VeleS Кинопленка
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2592/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bz3Z4cMCLkdqzlMPP31_WX8c82LsnCDJAakPV-bWNgoP
+#EXTINF:0 tvg-id=\"VeleS Киносерия\" tvg-logo=\"http://troya.one/images/chIcons/2594.png\" tvg-rec=\"3\", VeleS Киносерия
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2594/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B04Cl_G0V3C_uZNhr51ToMx1WrBS4Hx6nnbs68XUXER4
+#EXTINF:0 tvg-id=\"VeleS Premiere\" tvg-logo=\"http://troya.one/images/chIcons/2595.png\" tvg-rec=\"3\", VeleS Premiere
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2595/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7uiSC8kbXz4M930u4bvFm27Ydjnmj8SnypmsPNRwDMG
+#EXTINF:0 tvg-id=\"VeleS Страшное\" tvg-logo=\"http://troya.one/images/chIcons/2596.png\" tvg-rec=\"3\", VeleS Страшное
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2596/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2TxpqWdkU7RprjLA_nOK3tb0IfNpItaJZgkqBFEOUpx
+#EXTINF:0 tvg-id=\"VeleS СССР\" tvg-logo=\"http://troya.one/images/chIcons/2597.png\" tvg-rec=\"3\", VeleS СССР
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2597/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BzdTkmCKLlEJSTMDkq072jkJd1YbtfNsPDXgE0WSgK0_
+#EXTINF:0 tvg-id=\"VeleS Movie Hits\" tvg-logo=\"http://troya.one/images/chIcons/2598.png\" tvg-rec=\"3\", VeleS Movie Hits
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2598/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B5teGFRd0UUIaVhQGbfvAiuyAZ29NdVmYlkFFyQjP_Df
+#EXTINF:0 tvg-id=\"Veles Криминальный\" tvg-logo=\"http://troya.one/images/chIcons/2696.png\" tvg-rec=\"3\", Veles Криминальный
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2696/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3ByOR8Pzy1PKbvClgio8QYuGNt4cDksO2sKm4Rin1dEbP
+#EXTINF:0 tvg-id=\"VeleS Комедия\" tvg-logo=\"http://troya.one/images/chIcons/2314.png\" tvg-rec=\"3\", VeleS Комедия
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2314/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B_DRtVQGe3XEeEkWzwDGm4qWYJxiIJ2yQ74mLGsOXPpZ
+#EXTINF:0 tvg-id=\"VeleS Аниме\" tvg-logo=\"http://troya.one/images/chIcons/2612.png\" tvg-rec=\"3\", VeleS Аниме
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2612/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B5TfdqE8kaYT18vfdt6zItl6zT0-wlyooWcmXznr7pTY
+#EXTINF:0 tvg-id=\"VeleS Триллер\" tvg-logo=\"http://troya.one/images/chIcons/2799.png\" tvg-rec=\"3\", VeleS Триллер
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2799/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6nGjVV_Qn-lgJ30f84xZyLmxWwhdW-XOXCAVwSkAUsz
+#EXTINF:0 tvg-id=\"VeleS Семейный\" tvg-logo=\"http://troya.one/images/chIcons/2800.png\" tvg-rec=\"3\", VeleS Семейный
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2800/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8MoKsAHyeAOfTRfiVwcLCpZYUbJwxXE5xjcF6ZdM79n
+#EXTINF:0 tvg-id=\"VeleS Вестерн\" tvg-logo=\"http://troya.one/images/chIcons/2801.png\" tvg-rec=\"3\", VeleS Вестерн
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2801/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3COJaLT7v6wIkfaaLgcDHDEHSVlay64WCMpWTmY-AVM
+#EXTINF:0 tvg-id=\"VeleS Наше Кино\" tvg-logo=\"http://troya.one/images/chIcons/2802.png\" tvg-rec=\"3\", VeleS Наше Кино
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2802/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-2BnFqbiPdfGhqmtRK3qoj0sZcJp0L3N_tdqSEfWtiZ
+#EXTINF:0 tvg-id=\"Veles Новогодний\" tvg-logo=\"http://troya.one/images/chIcons/3078.png\" tvg-rec=\"3\", Veles Новогодний
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch3078/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bx3RM5ATw5Rj9XLWhEculGtlNiLXkVZKDvVmv-KkDjQr
+#EXTINF:0 tvg-id=\"Oasis Action\" tvg-logo=\"http://troya.one/images/chIcons/2510.png\" tvg-rec=\"3\", Oasis Action
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2510/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1bnGv7Gq4-BHbpcvrnCwzdMCO3n9mKww97lHPqL484p
+#EXTINF:0 tvg-id=\"Oasis Чечня и Афган\" tvg-logo=\"http://troya.one/images/chIcons/2919.png\" tvg-rec=\"3\", Oasis Чечня и Афган
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2919/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0LkG46o7nNXYnghwWVqv7SLi12T684ER04pUCyZdgDV
+#EXTINF:0 tvg-id=\"Oasis Comedy\" tvg-logo=\"http://troya.one/images/chIcons/2653.png\" tvg-rec=\"3\", Oasis Comedy
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2653/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B26wi0nFtPbZQW6ur8-EJNXVqLQ120DdrCWQbSSPeLBF
+#EXTINF:0 tvg-id=\"Oasis Soviet Comedy\" tvg-logo=\"http://troya.one/images/chIcons/2688.png\" tvg-rec=\"3\", Oasis Soviet Comedy
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2688/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2nwnSy3M-9xZqUQ6xqa0L3-SQ9MOdKr-S8RpxRDRJoW
+#EXTINF:0 tvg-id=\"Oasis Anime\" tvg-logo=\"http://troya.one/images/chIcons/2649.png\" tvg-rec=\"3\", Oasis Anime
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2649/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B_4b3LhuQ2t0pDfnwhX4hxewkXZgdJZMdB8RHWcEavOW
+#EXTINF:0 tvg-id=\"Oasis Detective\" tvg-logo=\"http://troya.one/images/chIcons/2657.png\" tvg-rec=\"3\", Oasis Detective
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2657/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B5huxhqUVIjZic_oGKLwhePM7RhJtsNxReLAkAvi5JsP
+#EXTINF:0 tvg-id=\"Oasis Drama\" tvg-logo=\"http://troya.one/images/chIcons/2660.png\" tvg-rec=\"3\", Oasis Drama
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2660/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwWNJV7zl7l2vB8DVlC4g3fNeEFMiVlGklm39R2CeeIi
+#EXTINF:0 tvg-id=\"Oasis DC\" tvg-logo=\"http://troya.one/images/chIcons/2655.png\" tvg-rec=\"3\", Oasis DC
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2655/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-qCX9FWcR_aZhsnsJn3NfWQmPt9RFw2BRMpEZ8_P5EZ
+#EXTINF:0 tvg-id=\"Oasis Marvel\" tvg-logo=\"http://troya.one/images/chIcons/2675.png\" tvg-rec=\"3\", Oasis Marvel
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2675/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7ehqku0DyScXjfB_TrWA4G_HWrIVXnBXslHk_ZjUyqS
+#EXTINF:0 tvg-id=\"Oasis Family\" tvg-logo=\"http://troya.one/images/chIcons/2662.png\" tvg-rec=\"3\", Oasis Family
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2662/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7g14OKYt7e_RREWCfrahwhcAWYPElFnWCEHPMZe6o9o
+#EXTINF:0 tvg-id=\"Oasis Мелодрама\" tvg-logo=\"http://troya.one/images/chIcons/2676.png\" tvg-rec=\"3\", Oasis Мелодрама
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2676/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B_eqto2pPsv2krgCP3O9pW6D2xNKzJlxZK2zVqm7mOOE
+#EXTINF:0 tvg-id=\"Oasis Horror\" tvg-logo=\"http://troya.one/images/chIcons/2666.png\" tvg-rec=\"3\", Oasis Horror
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2666/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bw0FbD-k0EM1QvU3ZtQOXSzrjd0RByhYKdhESxNF_zwi
+#EXTINF:0 tvg-id=\"Oasis Old Horrors\" tvg-logo=\"http://troya.one/images/chIcons/2678.png\" tvg-rec=\"3\", Oasis Old Horrors
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2678/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3JrJRUET5gebp5BgNLzxAEwXSzLqgrfSqZO2cOh6-3I
+#EXTINF:0 tvg-id=\"Oasis Comedy Horrors\" tvg-logo=\"http://troya.one/images/chIcons/2654.png\" tvg-rec=\"3\", Oasis Comedy Horrors
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2654/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BxhFtDgvNGxkhPj3klykeqQ3PPMevf_LYEjNFxnWE-JT
+#EXTINF:0 tvg-id=\"Oasis Biography\" tvg-logo=\"http://troya.one/images/chIcons/2650.png\" tvg-rec=\"3\", Oasis Biography
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2650/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B37o87VIfvKgivi55N-8F-KGhnAGhAScawv07shIizxj
+#EXTINF:0 tvg-id=\"Oasis Mafia\" tvg-logo=\"http://troya.one/images/chIcons/2674.png\" tvg-rec=\"3\", Oasis Mafia
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2674/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B5BQR_YybjKIcLyc6T2ke4v-JTrbB6E5TmUijAPc-TCg
+#EXTINF:0 tvg-id=\"Oasis Фантастика\" tvg-logo=\"http://troya.one/images/chIcons/2663.png\" tvg-rec=\"3\", Oasis Фантастика
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2663/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B9WAsdwKyJI3vJuPnxFVvIXT23b07fv7tp7B56L9KcVO
+#EXTINF:0 tvg-id=\"Oasis Тайны Смолвиля\" tvg-logo=\"http://troya.one/images/chIcons/2687.png\" tvg-rec=\"3\", Oasis Тайны Смолвиля
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2687/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B9HrHBDaifn3UVPHkJ0VKXshJUP0P9DATaXFpKgxatsn
+#EXTINF:0 tvg-id=\"Oasis Ufo And Aliens\" tvg-logo=\"http://troya.one/images/chIcons/1442.png\" tvg-rec=\"3\", Oasis Ufo And Aliens
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1442/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B82CG6opwyJCv0ekRA7YacG-CttbeNJnaZtswGLfWu_d
+#EXTINF:0 tvg-id=\"Oasis Alien and Predator\" tvg-logo=\"http://troya.one/images/chIcons/2647.png\" tvg-rec=\"3\", Oasis Alien and Predator
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2647/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8Y4zOUQqJ2s0twKpPVfEyVc9B1JNrRv1Tpcl_QgN_zH
+#EXTINF:0 tvg-id=\"Oasis Celentano Brando Connery\" tvg-logo=\"http://troya.one/images/chIcons/2652.png\" tvg-rec=\"3\", Oasis Celentano Brando Connery
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2652/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B99DkbsYyjt5fZIqZQRbvTMe2-58pOYl9lDfzVyX-JF2
+#EXTINF:0 tvg-id=\"Oasis Demon Slayer and Dororo\" tvg-logo=\"http://troya.one/images/chIcons/2656.png\" tvg-rec=\"3\", Oasis Demon Slayer and Dororo
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2656/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3ByHFsuaocAe3wc5jo632P_8zmVnNQzBAxaSoFBhqqstO
+#EXTINF:0 tvg-id=\"Oasis Serkan Bolat\" tvg-logo=\"http://troya.one/images/chIcons/2686.png\" tvg-rec=\"3\", Oasis Serkan Bolat
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2686/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwvhemOTriRrzM_quEWOuszKZhxyVj9JCL1tWsdU9cJr
+#EXTINF:0 tvg-id=\"Oasis Миядзаки\" tvg-logo=\"http://troya.one/images/chIcons/2677.png\" tvg-rec=\"3\", Oasis Миядзаки
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2677/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3Wr4WTv4RxkmcIIXtQCYXfyRreZTcqjHtb3fQO3S66r
+#EXTINF:0 tvg-id=\"Oasis In English\" tvg-logo=\"http://troya.one/images/chIcons/1443.png\" tvg-rec=\"3\", Oasis In English
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch1443/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B50jXOgmrLhd_oAqjTfXoHs1iGMu5Udn6oDWwU8Y8mkd
+#EXTINF:0 tvg-id=\"Oasis RUS Драма\" tvg-logo=\"http://troya.one/images/chIcons/2682.png\" tvg-rec=\"3\", Oasis RUS Драма
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2682/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B16VlE5SiTgZ_TCUQwXwM76kM3An-9dv6cV2IlTufM_i
+#EXTINF:0 tvg-id=\"Oasis RUS Комедии\" tvg-logo=\"http://troya.one/images/chIcons/2681.png\" tvg-rec=\"3\", Oasis RUS Комедии
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2681/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0MCz1GON4peK1TlV75m5gk0YQrbRVvyJKDgeejUYUAH
+#EXTINF:0 tvg-id=\"Oasis RUS Сериалы\" tvg-logo=\"http://troya.one/images/chIcons/2684.png\" tvg-rec=\"3\", Oasis RUS Сериалы
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2684/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0zdED1PCEqFVGUnW7lg-Xnhp4Z_qyIIs73lS_8gddBU
+#EXTINF:0 tvg-id=\"Oasis RUS Сериалы Драма\" tvg-logo=\"http://troya.one/images/chIcons/2685.png\" tvg-rec=\"3\", Oasis RUS Сериалы Драма
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2685/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-GBEIY3aGK9J_7DPVKPfdYDsfpQHZOzu8TaZ6Jm7UnD
+#EXTINF:0 tvg-id=\"Oasis Superheroes Сериалы\" tvg-logo=\"http://troya.one/images/chIcons/2690.png\" tvg-rec=\"3\", Oasis Superheroes Сериалы
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2690/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0me5PF5AVQ_khfL5eLGSED-2MocqI96FaagoBn_9Z_H
+#EXTINF:0 tvg-id=\"Oasis Корейские Сериалы\" tvg-logo=\"http://troya.one/images/chIcons/2667.png\" tvg-rec=\"3\", Oasis Корейские Сериалы
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2667/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BxnPyOasaYkYM8-EptBWlEwA094NX8Do03wf5_dfQL3a
+#EXTINF:0 tvg-id=\"Oasis Латиноамериканские Сериалы\" tvg-logo=\"http://troya.one/images/chIcons/2669.png\" tvg-rec=\"3\", Oasis Латиноамериканские Сериалы
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2669/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4IX_iYIinsyx8kVZigAY4xPFkgkmUSFTojOP9ff2q_F
+#EXTINF:0 tvg-id=\"Oasis USA Series\" tvg-logo=\"http://troya.one/images/chIcons/2694.png\" tvg-rec=\"3\", Oasis USA Series
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2694/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3Ckr_PmDE3yYpCyn9h6bubCwt7gxBa7-lQfgrJc8wwh
+#EXTINF:0 tvg-id=\"Oasis UK Series\" tvg-logo=\"http://troya.one/images/chIcons/2918.png\" tvg-rec=\"3\", Oasis UK Series
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2918/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1IrHxfLOhly1H-cN90L7BLdmYcCB7_S4eJq4s0e0nmy
+#EXTINF:0 tvg-id=\"Oasis Кухня Отель\" tvg-logo=\"http://troya.one/images/chIcons/2668.png\" tvg-rec=\"3\", Oasis Кухня Отель
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2668/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4Sy8zXJT5JAiXy9zLs9_utGKuQ2SI42UYg33vnLd_rw
+#EXTINF:0 tvg-id=\"Oasis Доктор Кто\" tvg-logo=\"http://troya.one/images/chIcons/2920.png\" tvg-rec=\"3\", Oasis Доктор Кто
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2920/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BxtEfbLpxWE2-B3-jcAAhkQyKgSQpZQ3aTfqrcWoNLxe
+#EXTINF:0 tvg-id=\"Oasis Саша Таня\" tvg-logo=\"http://troya.one/images/chIcons/2921.png\" tvg-rec=\"3\", Oasis Саша Таня
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2921/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B_KXehchI71fUtp4ml0JRytM7jqR4iYWBhIzF1XQNn26
+#EXTINF:0 tvg-id=\"KBC-Легендарное HD\" tvg-logo=\"http://troya.one/images/chIcons/2825.png\" tvg-rec=\"3\", KBC-Легендарное HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2825/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B87ZMTPeaAVY_VHw6aPXeN8Lt2Vb7u1s-_6nOjbI0nZX
+#EXTINF:0 tvg-id=\"KBC-Кошмарное HD\" tvg-logo=\"http://troya.one/images/chIcons/2826.png\" tvg-rec=\"3\", KBC-Кошмарное HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2826/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4zFnvIBaSj9teksbcMI5J8cJYjMWqdgL-bSGaICiwoA
+#EXTINF:0 tvg-id=\"KBC-Видак HD\" tvg-logo=\"http://troya.one/images/chIcons/2827.png\" tvg-rec=\"3\", KBC-Видак HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2827/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwwgMJxJbLJvho-vHFzhTCPUwt3kPNSXBjOsk25qk8h-
+#EXTINF:0 tvg-id=\"KBC-ДрамаTic HD\" tvg-logo=\"http://troya.one/images/chIcons/2828.png\" tvg-rec=\"3\", KBC-ДрамаTic HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2828/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0O2_4SmLNml3wbeqtSqZiqp5yCmtbd0qlbOIowvIVNl
+#EXTINF:0 tvg-id=\"KBC-Elite comedys HD\" tvg-logo=\"http://troya.one/images/chIcons/2831.png\" tvg-rec=\"3\", KBC-Elite comedys HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2831/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B9ssZYx7_tm3Pgh2rhAENhHlOxIFmJbhH8urRpGthXAf
+#EXTINF:0 tvg-id=\"KBC-Family Animation HD\" tvg-logo=\"http://troya.one/images/chIcons/2832.png\" tvg-rec=\"3\", KBC-Family Animation HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2832/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B09CMbBWEEbrm27hJt3Fd8XSSEZXoxKDFpohzuGqaLaD
+#EXTINF:0 tvg-id=\"KBC-Russian Комедия HD\" tvg-logo=\"http://troya.one/images/chIcons/2833.png\" tvg-rec=\"3\", KBC-Russian Комедия HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2833/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B_76hCCFclr9ONj61XRRSr-IRKQ7T_Wmwbga3r4rIkgd
+#EXTINF:0 tvg-id=\"KBC-В.О.В. HD\" tvg-logo=\"http://troya.one/images/chIcons/2834.png\" tvg-rec=\"3\", KBC-В.О.В. HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2834/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3ByiD3qQS9H5kyvUz2bbSlFdQmj_w_Yxc1UfYOVU19flu
+#EXTINF:0 tvg-id=\"KBC-Страна СССР HD\" tvg-logo=\"http://troya.one/images/chIcons/2835.png\" tvg-rec=\"3\", KBC-Страна СССР HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2835/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7_ZVzmnU2cdmtLJ-6FylMcbvt1ReojUl6CEnZa_GGWJ
+#EXTINF:0 tvg-id=\"KBC-Шпионское HD\" tvg-logo=\"http://troya.one/images/chIcons/2836.png\" tvg-rec=\"3\", KBC-Шпионское HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2836/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4RSqC6jbMtoqTf72HLADe_NaoBCE3cHqa-fCGo73NA6
+#EXTINF:0 tvg-id=\"KBC-Comics HD\" tvg-logo=\"http://troya.one/images/chIcons/2837.png\" tvg-rec=\"3\", KBC-Comics HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2837/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0KEjR6nKgBvYrLUM5pz6HnA1NPX4Q3fC2Kes7q6QSn6
+#EXTINF:0 tvg-id=\"KBC-Аниме HD\" tvg-logo=\"http://troya.one/images/chIcons/2838.png\" tvg-rec=\"3\", KBC-Аниме HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2838/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3Bz8a5wAQFdGzK3XR6s33TJgIMhRsd7YZBj5WZSD5y528
+#EXTINF:0 tvg-id=\"KBC-History HD\" tvg-logo=\"http://troya.one/images/chIcons/2839.png\" tvg-rec=\"2\", KBC-History HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2839/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BzBKpHxFxz6IrmkGuJ1OAdA5mRZjayGez2Rxw1Bb_doz
+#EXTINF:0 tvg-id=\"KBC-Fantastic HD\" tvg-logo=\"http://troya.one/images/chIcons/2840.png\" tvg-rec=\"3\", KBC-Fantastic HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2840/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4819WeXO3-HkSrfpjaElJ1AVX2CJD9PR-ki35pahRfE
+#EXTINF:0 tvg-id=\"KBC-ГАЙ Ritchie and Tarantino HD\" tvg-logo=\"http://troya.one/images/chIcons/2841.png\" tvg-rec=\"3\", KBC-ГАЙ Ritchie and Tarantino HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2841/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BzS3k47IX5awVai9DSOMsvEWYy79OYLIGT2nyA4l1Rub
+#EXTINF:0 tvg-id=\"KBC-Newfilm HD\" tvg-logo=\"http://troya.one/images/chIcons/2842.png\" tvg-rec=\"3\", KBC-Newfilm HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2842/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B9h2_eIvADJrBO2EljLNbnFWOzdQXJnnfyVyW4R1IO8N
+#EXTINF:0 tvg-id=\"KBC-Гоблин HD\" tvg-logo=\"http://troya.one/images/chIcons/2843.png\" tvg-rec=\"3\", KBC-Гоблин HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2843/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6Xz7EQCnV2jATveomdcZKIWr7VB62iza40C7sSdesSI
+#EXTINF:0 tvg-id=\"KBC-Вестерн HD\" tvg-logo=\"http://troya.one/images/chIcons/2844.png\" tvg-rec=\"3\", KBC-Вестерн HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2844/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B3kgF2QQxZnZpvBvPRO0CYky0uV_6CTJpjBCXZsvIHNN
+#EXTINF:0 tvg-id=\"KBC-WAR HD\" tvg-logo=\"http://troya.one/images/chIcons/2845.png\" tvg-rec=\"3\", KBC-WAR HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2845/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1XkPrkPK6-2Q6PCIOdj8-PK09-pH0ansv90Ge32BSEC
+#EXTINF:0 tvg-id=\"KBC-MusKino HD\" tvg-logo=\"http://troya.one/images/chIcons/2846.png\" tvg-rec=\"3\", KBC-MusKino HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2846/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4c3uGmxrgL6Ktwsf1O5whhHKXQRItNqYNhNkBX8dMoD
+#EXTINF:0 tvg-id=\"KBC-СпортМикс HD\" tvg-logo=\"http://troya.one/images/chIcons/2848.png\" tvg-rec=\"3\", KBC-СпортМикс HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2848/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-EpNWwSWEC-3hmJkwuESJuhiegZGk4wNyIBtIrcY33u
+#EXTINF:0 tvg-id=\"Cobra Detektiv HD\" tvg-logo=\"http://troya.one/images/chIcons/2850.png\" tvg-rec=\"0\", Cobra Detektiv HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2850/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B8SP_cl8PkmOMtIxhBxHp4btsCgoPFSJw5fUXJ2aZz6l
+#EXTINF:0 tvg-id=\"Cobra Thriller HD\" tvg-logo=\"http://troya.one/images/chIcons/2851.png\" tvg-rec=\"0\", Cobra Thriller HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2851/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6vMgoBt5Lcsbz9dFOua63lP71DNmUS3Maky2ikXmgoE
+#EXTINF:0 tvg-id=\"Cobra Drama HD\" tvg-logo=\"http://troya.one/images/chIcons/2852.png\" tvg-rec=\"0\", Cobra Drama HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2852/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-eUyBCRhY1ScPGkNsWODH38J3t41JRUyjHKjxQbTf7z
+#EXTINF:0 tvg-id=\"Cobra Melodrama HD\" tvg-logo=\"http://troya.one/images/chIcons/2853.png\" tvg-rec=\"0\", Cobra Melodrama HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2853/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1V4728w9t5s9IL7uZAFYFVruEihJBSzlbnQFwQ5cswV
+#EXTINF:0 tvg-id=\"Cobra Comedy HD\" tvg-logo=\"http://troya.one/images/chIcons/2854.png\" tvg-rec=\"0\", Cobra Comedy HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2854/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4BdfILXQLbxf9lFCUw674HFGg6fjSrzn82r7M0DpAru
+#EXTINF:0 tvg-id=\"Prokop TV Detektiv HD\" tvg-logo=\"http://troya.one/images/chIcons/2857.png\" tvg-rec=\"3\", Prokop TV Detektiv HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2857/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1SEzb7iEDyBcok7IAN8pWC5_AnAJi0lO612W0sNAsZo
+#EXTINF:0 tvg-id=\"Prokop TV Cinema 60 FPS\" tvg-logo=\"http://troya.one/images/chIcons/2860.png\" tvg-rec=\"3\", Prokop TV Cinema 60 FPS
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2860/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B5C2-iUkM8LGDFs4y1WOu9wtygqye4IxVRLsKDcGCgaM
+#EXTINF:0 tvg-id=\"Prokop TV Вторая Мировая\" tvg-logo=\"http://troya.one/images/chIcons/2862.png\" tvg-rec=\"3\", Prokop TV Вторая Мировая
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2862/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3BwizdMVdyghqBlIX8T_LUufxngaFrc4kVukKUwdCF3QK
+#EXTINF:0 tvg-id=\"Prokop TV Criminal HD\" tvg-logo=\"http://troya.one/images/chIcons/2866.png\" tvg-rec=\"3\", Prokop TV Criminal HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2866/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B5VhXamA-GQMdbxwws6JEjYv4itHDyWdHgSMoRN2CNji
+#EXTINF:0 tvg-id=\"Prokop TV History HD\" tvg-logo=\"http://troya.one/images/chIcons/2868.png\" tvg-rec=\"3\", Prokop TV History HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2868/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-1emwfwV1uyxOOAzR2eazAYt5ySTtbLj4ci2CEO06ZZ
+#EXTINF:0 tvg-id=\"Prokop TV Fantazy HD\" tvg-logo=\"http://troya.one/images/chIcons/2869.png\" tvg-rec=\"3\", Prokop TV Fantazy HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2869/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B32vvCWZy92qRwGmWAnbOdGMZmilxE500fXAnt8A7nvX
+#EXTINF:0 tvg-id=\"Prokop TV Horror HD\" tvg-logo=\"http://troya.one/images/chIcons/2870.png\" tvg-rec=\"3\", Prokop TV Horror HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2870/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4gsJfgzKYM46xpj_GzOYdgVBd-lwN3kHFUofKHK2YLB
+#EXTINF:0 tvg-id=\"Prokop TV Serial HD\" tvg-logo=\"http://troya.one/images/chIcons/2871.png\" tvg-rec=\"3\", Prokop TV Serial HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2871/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1eO65yAXuLnWeCf4YjFJVvDPUDH7MYX-afgOUX09LwY
+#EXTINF:0 tvg-id=\"Prokop TV Netflix HD\" tvg-logo=\"http://troya.one/images/chIcons/2872.png\" tvg-rec=\"3\", Prokop TV Netflix HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2872/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B6lXJrLvP9p4tOAM5Yw04VTkboyfNf35uWs0jikjpaXX
+#EXTINF:0 tvg-id=\"Prokop TV Comedy HD\" tvg-logo=\"http://troya.one/images/chIcons/2874.png\" tvg-rec=\"3\", Prokop TV Comedy HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2874/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B7d4LLHz8Ud0xHQ9QN7Xi6SCai2KBXKyaCX4qQsG76GT
+#EXTINF:0 tvg-id=\"Prokop TV New Films HD\" tvg-logo=\"http://troya.one/images/chIcons/2875.png\" tvg-rec=\"3\", Prokop TV New Films HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2875/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B2AUpQ_SzdYL7zM9tEsCWu-Q_IdDsp4doxUkU3tVZIG_
+#EXTINF:0 tvg-id=\"Prokop TV Kung Fu\" tvg-logo=\"http://troya.one/images/chIcons/2876.png\" tvg-rec=\"3\", Prokop TV Kung Fu
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2876/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B-xQtB9ZTraQl0BDF04yBQCNNLFT6lwdoeNzp62nyd_M
+#EXTINF:0 tvg-id=\"Prokop TV Cinema Best HD\" tvg-logo=\"http://troya.one/images/chIcons/2880.png\" tvg-rec=\"3\", Prokop TV Cinema Best HD
+#EXTGRP:4. Cinemas/Кинозалы
+http://5.troya.info:34000/ch2880/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B1jl-D_qfAfXxVIh7rg_SnQ5GgPA3W530Nnuqo5OHyqB
