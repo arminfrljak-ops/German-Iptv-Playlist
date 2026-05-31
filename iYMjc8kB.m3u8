@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=170000,RESOLUTION=480x480,CODECS="mp4a.40.2,avc1.42c01e",FRAME-RATE=25.0,CLOSED-CAPTIONS=NONE
+https://videos-cloudfront-usp.jwpsrv.com/6a1c5892_2b418e0c56aa91531d14601be8e67171302959ac/sites/qxSSQPwA/media/iYMjc8kB/versions/LlvpDTOL/manifest.ism/manifest-audio_0_saf2n5LR_Z5zZ0x92=112001-video_0_saf2n5LR_9d7iuWw3=47057.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=260000,RESOLUTION=1280x1280,CODECS="mp4a.40.2,avc1.4d4028",FRAME-RATE=25.0,CLOSED-CAPTIONS=NONE
+https://videos-cloudfront-usp.jwpsrv.com/6a1c5892_2b418e0c56aa91531d14601be8e67171302959ac/sites/qxSSQPwA/media/iYMjc8kB/versions/LlvpDTOL/manifest.ism/manifest-audio_0_saf2n5LR_Z5zZ0x92=112001-video_0_saf2n5LR_9d7iuWw3=133128.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=200000,RESOLUTION=720x720,CODECS="mp4a.40.2,avc1.4d401f",FRAME-RATE=25.0,CLOSED-CAPTIONS=NONE
+https://videos-cloudfront-usp.jwpsrv.com/6a1c5892_2b418e0c56aa91531d14601be8e67171302959ac/sites/qxSSQPwA/media/iYMjc8kB/versions/LlvpDTOL/manifest.ism/manifest-audio_0_saf2n5LR_Z5zZ0x92=112001-video_0_saf2n5LR_9d7iuWw3=74455.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=150000,RESOLUTION=320x320,CODECS="mp4a.40.2,avc1.42c015",FRAME-RATE=25.0,CLOSED-CAPTIONS=NONE
+https://videos-cloudfront-usp.jwpsrv.com/6a1c5892_2b418e0c56aa91531d14601be8e67171302959ac/sites/qxSSQPwA/media/iYMjc8kB/versions/LlvpDTOL/manifest.ism/manifest-audio_0_saf2n5LR_Z5zZ0x92=112001-video_0_saf2n5LR_9d7iuWw3=28648.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=120000,CODECS="mp4a.40.2"
+https://videos-cloudfront-usp.jwpsrv.com/6a1c5892_2b418e0c56aa91531d14601be8e67171302959ac/sites/qxSSQPwA/media/iYMjc8kB/versions/LlvpDTOL/manifest.ism/manifest-audio_0_saf2n5LR_Z5zZ0x92=112001.m3u8
