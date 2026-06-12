@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BHRT.ba@SD" tvg-logo="https://i.imgur.com/01bZ5rw.png" group-title="",BHRT (270p) [Geo-blocked]
+https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
+#EXTINF:-1 tvg-id="BHRT.ba@SD" tvg-logo="https://i.imgur.com/01bZ5rw.png" group-title="",BHRT (720p) [Geo-blocked]
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+#EXTINF:-1 tvg-id="BHT1.ba@SD" tvg-logo="https://i.imgur.com/LEwlEEE.png" group-title="General" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1",BHT 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1
+https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
+#EXTINF:-1 tvg-id="BravoKidsTV.hr@SD" tvg-logo="https://i.imgur.com/JcJ6fQ9.png" group-title="Kids",Bravo! Kids TV (1080p)
+https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8
+#EXTINF:-1 tvg-id="BravoTV.hr@SD" tvg-logo="https://i.imgur.com/FN2J9hv.png" group-title="Music",Bravo! TV (1080p)
+https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8
+#EXTINF:-1 tvg-id="CMCTV.hr@SD" tvg-logo="https://i.imgur.com/FCb7Ag2.png" group-title="Music",CMC TV (1080p)
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-id="DiadoraTV.hr@SD" tvg-logo="https://i.imgur.com/qZzsASl.png" group-title="General",Diadora TV
+https://diadoratv.stream/live/diadora/playlist.m3u8
+#EXTINF:-1 tvg-id="ExtraTV.hr@SD" tvg-logo="https://i.imgur.com/5edYPBO.png" group-title="Music",Extra TV (1080p)
+https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
+#EXTINF:-1 tvg-id="Federalnatelevizija.ba@SD" tvg-logo="https://i.imgur.com/astdRrE.png" group-title="General",Federalna televizija (720p)
+http://185.81.240.65:15000/udp/233.233.233.39:12000
+#EXTINF:-1 tvg-id="Hayat.ba@SD" tvg-logo="https://i.imgur.com/JugiLHM.png" group-title="Music",Hayat (1080p)
+http://158.180.39.89:5033/hayat.m3u8
+#EXTINF:-1 tvg-id="HayatFolk.ba@SD" tvg-logo="https://i.imgur.com/LteJva4.png" group-title="Music",Hayat Folk (1080p)
+http://158.180.39.89:5033/folk.m3u8
+#EXTINF:-1 tvg-id="HayatMusic.ba@SD" tvg-logo="https://i.imgur.com/9p8q1yX.png" group-title="Music",Hayat Music (1080p)
+http://158.180.39.89:5033/music.m3u8
+#EXTINF:-1 tvg-id="HayatPlus.ba@SD" tvg-logo="https://i.imgur.com/NThsVzJ.png" group-title="Music",Hayat Plus (1080p)
+http://158.180.39.89:5033/hayatplus.m3u8
+#EXTINF:-1 tvg-id="Hayatovci.ba@SD" tvg-logo="https://i.imgur.com/eqd3kvW.png" group-title="Music",Hayatovci (1080p)
+http://158.180.39.89:5033/hayatovci.m3u8
+#EXTINF:-1 tvg-id="HRT1.hr@SD" tvg-logo="https://i.imgur.com/lDSctzX.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
+#EXTINF:-1 tvg-id="HRT1.hr@HD" tvg-logo="https://i.imgur.com/lDSctzX.png" group-title="General",HRT 1 HD (1080p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+#EXTINF:-1 tvg-id="HRT2.hr@SD" tvg-logo="https://i.imgur.com/yyePcl1.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 2 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
+#EXTINF:-1 tvg-id="HRT2.hr@HD" tvg-logo="https://i.imgur.com/yyePcl1.png" group-title="General",HRT 2 HD (1080p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+#EXTINF:-1 tvg-id="HRT3.hr@SD" tvg-logo="https://i.imgur.com/4OrOJRx.png" group-title="Culture;Documentary" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 3 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+#EXTINF:-1 tvg-id="HRT3.hr@HD" tvg-logo="https://i.imgur.com/4OrOJRx.png" group-title="Culture;Documentary",HRT 3 HD (720p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+#EXTINF:-1 tvg-id="HRT4.hr@HD" tvg-logo="https://i.imgur.com/VcNrY0m.png" group-title="News",HRT 4 HD (720p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+#EXTINF:-1 tvg-id="Kanal6.ba@SD" tvg-logo="https://i.imgur.com/GGhvR0l.png" group-title="General",Kanal 6 (288p)
+https://restreamer1.tnt.ba/hls/kanal6.m3u8
+#EXTINF:-1 tvg-id="KlapeiTambureTV.hr@SD" tvg-logo="https://i.imgur.com/sKj3dgc.png" group-title="Music",Klape i Tambure TV (1080p)
+https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 tvg-id="Klasik.hr@SD" tvg-logo="https://i.imgur.com/C90BYlb.png" group-title="Movies",Klasik TV (576p) [Not 24/7]
+https://178.253.194.105/klasiktv/playlist.m3u8
+#EXTINF:-1 tvg-id="LibertasTV.hr@SD" tvg-logo="https://i.imgur.com/4R4fhbd.png" group-title="General",Libertas TV (1080p)
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-id="MariaPlusVisionMedjugorje.ba@SD" tvg-logo="https://i.imgur.com/xUOspBx.png" group-title="Religious",María+Visión Medjugorje (720p)
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
+#EXTINF:-1 tvg-id="NovaTV.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/960px-Nova_TV_Croatia_logo.png" group-title="General",Nova TV (1080p)
+https://str.gledamsport.com/proxy.php?c=nova&path=mono.m3u8&type=playlist
+#EXTINF:-1 tvg-id="NTVICKakanj.ba@SD" tvg-logo="https://i.imgur.com/EtaHm2P.png" group-title="General",NTV IC Kakanj (720p)
+https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8
+#EXTINF:-1 tvg-id="OTV.hr@SD" tvg-logo="https://i.imgur.com/67zVdu2.png" group-title="News",OTV (720p) [Not 24/7]
+https://stream.agatin.hr:3559/live/otvlive.m3u8
+#EXTINF:-1 tvg-id="RadioTelevizijaBanovina.hr@SD" tvg-logo="https://i.imgur.com/gCFgC5D.png" group-title="",Radio Televizija Banovina (1080p) [Not 24/7]
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="RTRSplus.ba@SD" tvg-logo="https://i.imgur.com/k06WvYl.png" group-title="",RTRS Plus (576p) [Not 24/7]
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+#EXTINF:-1 tvg-id="RTRSTV.ba@SD" tvg-logo="https://i.imgur.com/2Sgs5gM.png" group-title="",RTRS TV (576p) [Not 24/7]
+https://uzivo.rtrs.tv/tv/live/index.m3u8
+#EXTINF:-1 tvg-id="RTVGlasDrine.ba@SD" tvg-logo="https://i.imgur.com/9NgxOdb.png" group-title="General;Music",RTV Glas Drine (404p) [Not 24/7]
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVHB.ba@SD" tvg-logo="https://i.imgur.com/6FNL8Iv.png" group-title="General",RTV Herceg-Bosne (576p) [Not 24/7]
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVZenica.ba@SD" tvg-logo="https://i.imgur.com/TKUaflB.png" group-title="",RTV Zenica (720p)
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-id="SBTV.hr@SD" tvg-logo="https://i.imgur.com/MIampxZ.png" group-title="General",SBTV (1080p) [Not 24/7]
+https://live.leveex.hr/hls/live.m3u8
+#EXTINF:-1 tvg-id="STV.hr@SD" tvg-logo="https://i.imgur.com/Z3yRl17.png" group-title="General",STV (720p)
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 tvg-id="SuperTV.ba@SD" tvg-logo="https://i.imgur.com/XYWgd3E.png" group-title="General",Super TV Media (720p)
+https://mirtv.club/live/mirtv/index.m3u8
+#EXTINF:-1 tvg-id="Televizija5.ba@SD" tvg-logo="https://i.imgur.com/znpvJys.png" group-title="",Televizija 5 (576p)
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 tvg-id="TelevizijaM.ba@SD" tvg-logo="https://i.imgur.com/jT95ZEI.png" group-title="General",Televizija M (1080p)
+https://live.tv-m.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TNTKidsTV.ba@SD" tvg-logo="https://i.imgur.com/irTDbpn.png" group-title="Kids",TNT Kids (288p)
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
+#EXTINF:-1 tvg-id="TrendTV.hr@SD" tvg-logo="https://i.imgur.com/4SmNISY.jpg" group-title="General",Trend TV (480p)
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVJadran.hr@SD" tvg-logo="https://i.imgur.com/UWMHnOG.png" group-title="News",TV Jadran (720p) [Not 24/7]
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 tvg-id="TVNova.hr@SD" tvg-logo="https://i.imgur.com/gFjJ7YB.png" group-title="Entertainment",TV Nova (720p)
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1 tvg-id="TVSlonExtra.ba@SD" tvg-logo="https://i.imgur.com/AohYgH1.png" group-title="",TV Slon Extra (1080p) [Not 24/7]
+http://31.47.0.130:8082
+#EXTINF:-1 tvg-id="TVZapad.hr@SD" tvg-logo="https://i.imgur.com/cgCeX12.png" group-title="General",TV Zapad (1080p) [Not 24/7]
+http://85.94.67.158/TVZAPAD/index.fmp4.m3u8
